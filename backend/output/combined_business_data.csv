@@ -1,0 +1,1359 @@
+id,business_name,category,city,address,phone,rating,reviews_count,website,source,latitude,longitude,business_status,created_at
+1,Mannan Group,Hospital,Hyderabad,"26/59, Grover Marg, Ongole 890773",01609601103,,,,Google Maps,,,,
+2,Chatterjee-Devi,Plumber,Pune,"409, Munshi Street, Singrauli-003235",08671851156,,,,Justdial,,,,
+3,"Kannan, Yadav and Ravel",Electrician,Mumbai,"91, Rajagopal Road, Pudukkottai 024676",08926783279,,,,Google Maps,,,,
+4,Lall-Khatri,Hospital,Ahmedabad,"H.No. 81, Pandey Path, Muzaffarnagar-603664",+916735016013,,,,Justdial,,,,
+5,D’Alia LLC,Restaurant,Hyderabad,"664, Majumdar Ganj, Begusarai-206064",+915589570812,,,,Justdial,,,,
+6,Pillay LLC,IT Services,Hyderabad,"380, Karnik Circle, Srinagar 656158",03811834288,,,,Justdial,,,,
+7,Chana Group,Plumber,Ahmedabad,"36/72, Bansal Road, Dharmavaram-779995",2874443157,,,,Google Maps,,,,
+8,Bora-Sampath,Plumber,Chennai,"H.No. 46, Golla Nagar, New Delhi-336067",08791838624,,,,Google Maps,,,,
+9,Deshmukh-Hans,Electrician,Chennai,"795, Sharma Street, Udupi-997869",7961872286,,,,Justdial,,,,
+10,"Grewal, Batta and Seshadri",Hospital,Bengaluru,"H.No. 771, Kapur Marg, Narasaraopet 581983",+915396016418,,,,Google Maps,,,,
+11,"Mukherjee, Kaul and Banik",IT Services,Kolkata,"88/027, Vig Path, Chapra 656854",+915866645850,,,,Justdial,,,,
+12,Buch Ltd,Hospital,Bengaluru,"06/581, Doshi Circle, Thrissur 195846",4331798809,,,,Justdial,,,,
+13,Mohanty Inc,Hospital,Delhi,"H.No. 180, Bora Chowk, Bareilly 451443",2521590793,,,,Sulekha,,,,
+14,Choudhry Ltd,IT Services,Chennai,"998, Dar Marg, Bikaner 729432",3019265937,,,,Justdial,,,,
+15,"Thakkar, Natt and Bumb",Restaurant,Mumbai,"388, Pingle Zila, Kavali-964042",08168733554,,,,Google Maps,,,,
+16,Badami-Saini,Gym,Hyderabad,"360, Mody Nagar, Alwar-833531",09165599244,,,,Sulekha,,,,
+17,Mangal Group,Education,Bengaluru,"66, Kalita Road, Fatehpur-490044",+914858316465,,,,Google Maps,,,,
+18,Batra-Kunda,Restaurant,Ahmedabad,"H.No. 128, Prabhu Road, Miryalaguda 631461",4200418475,,,,Justdial,,,,
+19,Saha Group,Hospital,Pune,"80/735, Taneja Marg, Gandhidham-029546",+912294845034,,,,Google Maps,,,,
+20,"Handa, Narasimhan and Merchant",Electrician,Mumbai,"799, Krish Street, Meerut-464374",3965164642,,,,Justdial,,,,
+21,Sant Ltd,IT Services,Hyderabad,"35, Rana Zila, Bardhaman-712296",+919603613224,,,,Sulekha,,,,
+22,Banik-Hayer,Hospital,Delhi,"044, Kala Road, Mau 888889",5736855701,,,,Justdial,,,,
+23,Hans-Sinha,Hospital,Pune,"72/95, Samra Path, Panchkula 664631",+918135255587,,,,Google Maps,,,,
+24,"Zacharia, Sampath and Murty",IT Services,Hyderabad,"H.No. 99, Shah Chowk, Bihar Sharif-544620",+914830496122,,,,Sulekha,,,,
+25,Sarin-Menon,Electrician,Ahmedabad,"H.No. 79, Mangal Ganj, Guna-190930",+915670248760,,,,Sulekha,,,,
+26,Grover-Deo,Electrician,Ahmedabad,"15/41, Kapadia Road, Mira-Bhayandar 165953",9173410705,,,,Sulekha,,,,
+27,"Banik, Radhakrishnan and Saran",IT Services,Ahmedabad,"H.No. 879, Goel Zila, Bhilai-878856",+918462285109,,,,Justdial,,,,
+28,Dugar Group,IT Services,Mumbai,"01/111, Sani Ganj, Aizawl 091628",+917488291006,,,,Sulekha,,,,
+29,Palla LLC,Education,Chennai,"H.No. 17, Anne Road, Bikaner-204996",+911488007943,,,,Sulekha,,,,
+30,Mital and Sons,Hospital,Kolkata,"03/611, Kurian Marg, Karimnagar-173002",5266656699,,,,Justdial,,,,
+31,"Modi, Mohanty and Varkey",Education,Chennai,"H.No. 74, Bajaj Street, South Dumdum-292938",5579283102,,,,Google Maps,,,,
+32,Oza Ltd,Restaurant,Mumbai,"21/70, Gade Circle, Farrukhabad 900082",03006803775,,,,Sulekha,,,,
+33,"Bhat, Soman and Dhawan",Plumber,Chennai,"88/710, Pingle Path, Coimbatore-522933",9421135589,,,,Justdial,,,,
+34,Naik-Amble,Restaurant,Hyderabad,"70/330, Sehgal, Guntur 138610",+910310318935,,,,Google Maps,,,,
+35,"D’Alia, Ram and Sibal",Plumber,Ahmedabad,"H.No. 865, Ramakrishnan, Raipur 152440",5680349428,,,,Sulekha,,,,
+36,Seth Group,Restaurant,Hyderabad,"13, Rana Road, Rampur-158419",03260925974,,,,Justdial,,,,
+37,Arya Group,Gym,Kolkata,"46/726, Shenoy Street, Mango 294553",+918851705171,,,,Justdial,,,,
+38,"Balasubramanian, Taneja and Vasa",Education,Pune,"H.No. 208, Bir Marg, Karnal 121493",3530615922,,,,Sulekha,,,,
+39,Palan-Bal,Electrician,Pune,"72/095, Walla Road, Raichur-051206",+918134221812,,,,Sulekha,,,,
+40,Kohli Group,Plumber,Ahmedabad,"H.No. 24, Hans Chowk, Mumbai 686596",3138637483,,,,Sulekha,,,,
+41,Goswami Ltd,Restaurant,Hyderabad,"H.No. 84, Gala Road, Rajpur Sonarpur 478768",07915570403,,,,Google Maps,,,,
+42,"Acharya, Viswanathan and Talwar",Real Estate,Hyderabad,"H.No. 886, Srinivasan Chowk, Tadepalligudem 364491",09116298766,,,,Sulekha,,,,
+43,"Jha, Khurana and Sethi",Plumber,Kolkata,"H.No. 50, Kapoor Path, Farrukhabad-337353",+916458497499,,,,Justdial,,,,
+44,Bath-Mohan,Hospital,Delhi,"604, Oak Nagar, Agartala 535630",+917767129544,,,,Google Maps,,,,
+45,"Lall, Dasgupta and Srinivasan",Plumber,Mumbai,"875, Sekhon Road, Asansol-109860",03127763606,,,,Justdial,,,,
+46,"Srinivasan, Padmanabhan and Mody",Restaurant,Bengaluru,"830, Gole Circle, Bahraich 958219",04518304310,,,,Sulekha,,,,
+47,"Ram, Mannan and Cheema",Electrician,Ahmedabad,"H.No. 537, Kade Zila, Unnao 501624",0936622294,,,,Google Maps,,,,
+48,Kata and Sons,Plumber,Delhi,"H.No. 98, Kala Street, Durg 805752",01911992458,,,,Google Maps,,,,
+49,"Mukhopadhyay, Kulkarni and Jaggi",Electrician,Chennai,"49, Natt Path, Surat-406458",+915472762697,,,,Google Maps,,,,
+50,Singhal and Sons,Gym,Kolkata,"96, Joshi Street, Anand 096893",+913053920199,,,,Google Maps,,,,
+51,Shan PLC,Education,Mumbai,"358, Contractor Zila, Belgaum 337711",6683724100,,,,Google Maps,,,,
+52,"Murty, Dey and Rout",Education,Bengaluru,"56/206, Gade Street, Sikar 582767",7199962096,,,,Sulekha,,,,
+53,Tella Group,Real Estate,Delhi,"H.No. 313, Gaba Path, Chandrapur-086583",07390362018,,,,Justdial,,,,
+54,Venkatesh Inc,Gym,Bengaluru,"04, Keer Zila, Sambhal-231616",8311803852,,,,Google Maps,,,,
+55,Sami LLC,Plumber,Pune,"22/49, Kamdar Marg, Shimoga-057092",00459308352,,,,Sulekha,,,,
+56,Kuruvilla-Dugar,IT Services,Pune,"H.No. 42, Arora Marg, Amritsar 534944",+918751040681,,,,Justdial,,,,
+57,Mane Inc,Hospital,Ahmedabad,"014, Sidhu Path, Kamarhati 952799",7228843420,,,,Justdial,,,,
+58,"Wadhwa, Oza and Mital",Gym,Ahmedabad,"54/784, Sankar Zila, Mehsana 091084",06698932230,,,,Sulekha,,,,
+59,Badami and Sons,Education,Ahmedabad,"77, Natarajan Ganj, Hospet 135902",03449657266,,,,Justdial,,,,
+60,Dhawan PLC,Restaurant,Ahmedabad,"63/802, Uppal Marg, Bidar-753203",+917137018765,,,,Sulekha,,,,
+61,Mistry Inc,Gym,Delhi,"H.No. 63, Shan Road, Tenali-822863",06734906913,,,,Google Maps,,,,
+62,"Deo, Ganesan and Goda",Hospital,Pune,"35, Kala Circle, Sasaram-227720",+912363245904,,,,Sulekha,,,,
+63,Suresh-Khalsa,Education,Hyderabad,"833, Pandey Ganj, Dharmavaram 326108",+914912107925,,,,Google Maps,,,,
+64,Dyal-Wali,Hospital,Mumbai,"808, Ranganathan Nagar, Agra 830245",3160791067,,,,Google Maps,,,,
+65,Lal-Chaudhry,Restaurant,Chennai,"H.No. 12, Mall Marg, Tadepalligudem 398470",+914505723719,,,,Google Maps,,,,
+66,Buch-Tata,Electrician,Ahmedabad,"38/03, Iyengar, Berhampore 715580",+911092911998,,,,Google Maps,,,,
+67,Pall-Gara,Plumber,Pune,"78/604, Dhawan Road, Nashik-869737",00421535163,,,,Google Maps,,,,
+68,Badal-Naik,Restaurant,Chennai,"H.No. 54, Seshadri Nagar, Siliguri-051547",03632009014,,,,Justdial,,,,
+69,Johal-Gera,Plumber,Kolkata,"H.No. 17, Ramanathan Ganj, Belgaum 733630",03410393847,,,,Justdial,,,,
+70,Jhaveri LLC,Real Estate,Ahmedabad,"20, Bal Road, Khora  896047",0106590938,,,,Justdial,,,,
+71,Bahri Inc,Plumber,Kolkata,"H.No. 37, Loyal Nagar, Surendranagar Dudhrej-346547",8918886417,,,,Google Maps,,,,
+72,Din Group,Restaurant,Chennai,"H.No. 51, Bobal Road, Nagpur-715170",03208503697,,,,Justdial,,,,
+73,"Jani, Contractor and Ranganathan",Gym,Mumbai,"795, Banik Zila, Alappuzha 124357",+914472076463,,,,Google Maps,,,,
+74,Warrior-Sarkar,Electrician,Mumbai,"92/15, Kari Circle, Loni-065639",+918751901207,,,,Justdial,,,,
+75,Sahota Inc,IT Services,Mumbai,"H.No. 248, Krishnamurthy Circle, Agra 005703",+914807713135,,,,Justdial,,,,
+76,Misra Ltd,Education,Chennai,"H.No. 41, De Chowk, Chapra 138699",3017667049,,,,Sulekha,,,,
+77,Sunder-Sathe,Real Estate,Kolkata,"04, Arora Street, Pudukkottai-540687",+912970333588,,,,Justdial,,,,
+78,Wali Ltd,Hospital,Ahmedabad,"993, Dua Nagar, Dehradun-610788",+915734372326,,,,Google Maps,,,,
+79,Viswanathan and Sons,Gym,Delhi,"95/20, Puri Path, Jhansi 968536",06385311450,,,,Google Maps,,,,
+80,"Choudhury, Pradhan and Pau",Real Estate,Hyderabad,"41/525, Tailor Road, Pali-048523",08811628030,,,,Google Maps,,,,
+81,Pandya Inc,Electrician,Delhi,"87, Badal Marg, Morbi-997094",+910382176273,,,,Justdial,,,,
+82,"Vyas, Kakar and Sinha",Real Estate,Kolkata,"99, Chatterjee Nagar, Panchkula-443410",2133369029,,,,Sulekha,,,,
+83,Thakkar-Chand,Electrician,Kolkata,"364, Iyengar Nagar, Malda 873938",07503286594,,,,Sulekha,,,,
+84,Bahri-Chaudry,Gym,Chennai,"62/32, Ratta Marg, Patna-494633",08829387711,,,,Justdial,,,,
+85,Chander LLC,Electrician,Chennai,"970, Krish Marg, Kollam 007697",03442097097,,,,Google Maps,,,,
+86,Varghese and Sons,Education,Pune,"68/859, Kota Circle, Mango 507343",01094005546,,,,Google Maps,,,,
+87,Dass Group,IT Services,Delhi,"048, Bhatia Street, Tadepalligudem 089217",06919644782,,,,Justdial,,,,
+88,"Munshi, Keer and Batra",Real Estate,Pune,"68/430, Sarkar Road, Hapur-337626",08369610968,,,,Sulekha,,,,
+89,Narang-Kuruvilla,Real Estate,Delhi,"86, Thaker Zila, Madhyamgram-256188",2155018366,,,,Justdial,,,,
+90,Dyal Ltd,Restaurant,Mumbai,"22, Desai Circle, Howrah-614964",08347704860,,,,Sulekha,,,,
+91,"Dua, Kashyap and Balay",Real Estate,Delhi,"84/934, Bumb Ganj, Dhanbad 788632",00688513572,,,,Justdial,,,,
+92,"Balakrishnan, Kale and Chopra",Real Estate,Hyderabad,"71/92, Lalla Chowk, Sultan Pur Majra 370241",+914847083531,,,,Sulekha,,,,
+93,"More, Grover and Morar",Education,Delhi,"H.No. 66, Choudhry Zila, Raurkela Industrial Township 442437",1980255250,,,,Justdial,,,,
+94,Cherian LLC,Plumber,Kolkata,"H.No. 024, Mukhopadhyay Path, Bhubaneswar 388366",4863288434,,,,Google Maps,,,,
+95,Devan Inc,Gym,Hyderabad,"H.No. 027, Manne Chowk, Danapur-003401",09949682366,,,,Sulekha,,,,
+96,Iyengar-Mallick,Real Estate,Bengaluru,"948, Kadakia Path, Mangalore 053718",05213376137,,,,Justdial,,,,
+97,Chopra Ltd,Education,Delhi,"16/376, Deo Marg, Raiganj 945750",+915732806272,,,,Sulekha,,,,
+98,"Master, Oommen and Walla",Hospital,Hyderabad,"H.No. 782, Dugar Zila, Patiala 889627",+914651297786,,,,Justdial,,,,
+99,Thaman-Sankaran,Hospital,Bengaluru,"995, Butala, Rajkot-973526",9468177086,,,,Google Maps,,,,
+100,Korpal-Mishra,Plumber,Delhi,"83/62, Gill Ganj, Kakinada-073469",01500429455,,,,Google Maps,,,,
+101,Sane and Sons,Restaurant,Ahmedabad,"H.No. 26, Balasubramanian Road, Darbhanga-786253",06773756790,,,,Sulekha,,,,
+102,Menon and Sons,Real Estate,Ahmedabad,"H.No. 00, Setty Road, Madanapalle 827433",9248813543,,,,Sulekha,,,,
+103,"Maharaj, Mukherjee and Menon",Plumber,Bengaluru,"16/02, Apte Street, Tadipatri-634217",+918283701770,,,,Justdial,,,,
+104,Ahluwalia Inc,Real Estate,Ahmedabad,"35/847, Raju Nagar, Farrukhabad-987762",+916774781241,,,,Justdial,,,,
+105,Vala-Vora,Electrician,Kolkata,"H.No. 47, Shetty Nagar, Ozhukarai-751812",4878187477,,,,Sulekha,,,,
+106,Mishra-Kulkarni,Electrician,Pune,"49/18, Zacharia Ganj, Patiala 018294",+910544121100,,,,Sulekha,,,,
+107,Butala and Sons,Education,Pune,"31, Kapur Marg, Surat 545452",+912771767464,,,,Sulekha,,,,
+108,Kapoor-Mutti,IT Services,Pune,"40/52, Magar Path, Raebareli-452154",6082073384,,,,Sulekha,,,,
+109,Hans-Dutta,Gym,Kolkata,"H.No. 525, Suri Nagar, Nanded 085722",04743310367,,,,Sulekha,,,,
+110,Nadkarni Group,Hospital,Mumbai,"15/33, Bumb Road, Panihati 133281",06112482149,,,,Google Maps,,,,
+111,"Barad, Shanker and Sha",Education,Kolkata,"H.No. 51, Koshy Ganj, Dehradun-725846",+910717664251,,,,Justdial,,,,
+112,"Rajagopalan, Dalal and Suresh",Real Estate,Kolkata,"26, Mahal Marg, Unnao-042084",07351320989,,,,Sulekha,,,,
+113,Karnik Inc,Restaurant,Delhi,"H.No. 557, Korpal Nagar, Ongole-817900",+917101786125,,,,Justdial,,,,
+114,Chopra-Datta,IT Services,Ahmedabad,"H.No. 896, Char Street, Agartala 078827",3362820916,,,,Sulekha,,,,
+115,"Bassi, Keer and Dhaliwal",Gym,Mumbai,"70/980, Ram Nagar, Anantapur 294973",+918505492744,,,,Justdial,,,,
+116,"Batta, Narasimhan and Nagar",Real Estate,Kolkata,"H.No. 546, Kannan Street, Ambarnath 963090",+919429438130,,,,Sulekha,,,,
+117,Madan and Sons,Restaurant,Mumbai,"20, Garde Circle, Muzaffarpur 167907",02038983950,,,,Justdial,,,,
+118,Memon and Sons,Education,Mumbai,"43, Bath Ganj, Coimbatore-140760",06501326016,,,,Google Maps,,,,
+119,Mital Group,IT Services,Bengaluru,"00/59, Gour Path, Khora -077536",01464893633,,,,Justdial,,,,
+120,"Rai, Aurora and Dyal",Electrician,Delhi,"65/59, Pandey Zila, Bellary 136538",05255761032,,,,Justdial,,,,
+121,"Bawa, Mahajan and Swaminathan",Hospital,Pune,"35, Kara Chowk, Bulandshahr-683389",08658313028,,,,Google Maps,,,,
+122,"Naik, Yogi and Sant",Electrician,Kolkata,"19, Misra Chowk, Jaunpur 389113",02156285014,,,,Justdial,,,,
+123,"Chanda, Chauhan and Kurian",Real Estate,Chennai,"70/791, Kulkarni Marg, Jamnagar-177176",2251760828,,,,Google Maps,,,,
+124,Hari-Rai,Electrician,Bengaluru,"763, Narang Zila, Rajkot-691998",3712390800,,,,Sulekha,,,,
+125,Brahmbhatt Group,IT Services,Chennai,"52, Sidhu Road, Loni 192279",+918070818166,,,,Justdial,,,,
+126,"Oommen, Nagar and Dada",Restaurant,Hyderabad,"00, Dubey Zila, Suryapet 357274",+911805956072,,,,Justdial,,,,
+127,Dara PLC,Electrician,Pune,"H.No. 10, Merchant Circle, Serampore-929232",+910794711866,,,,Justdial,,,,
+128,"Kaur, Gola and Golla",Plumber,Kolkata,"554, Dara, Raebareli 530742",4741169825,,,,Justdial,,,,
+129,Sethi and Sons,Gym,Chennai,"813, Viswanathan, Unnao-531088",06730892987,,,,Google Maps,,,,
+130,"Joshi, Srinivas and Rastogi",Restaurant,Mumbai,"77/13, Sridhar Chowk, Kavali-007810",06395365622,,,,Justdial,,,,
+131,"Rajagopal, Hans and Jayaraman",Hospital,Mumbai,"06/923, Sethi Ganj, Gwalior-019427",+913251893854,,,,Google Maps,,,,
+132,"Dora, Keer and Pathak",Hospital,Kolkata,"34, Gokhale Road, Tenali-409273",3721689735,,,,Google Maps,,,,
+133,Baral Group,Gym,Pune,"88/463, Goda Ganj, Malda-082314",+917167152683,,,,Google Maps,,,,
+134,Mani Inc,Electrician,Chennai,"60/810, Chadha, Phagwara 231258",4437789150,,,,Justdial,,,,
+135,Devan LLC,Hospital,Mumbai,"H.No. 800, Shere Street, Ludhiana 921618",07564243736,,,,Justdial,,,,
+136,Balan-Sengupta,Real Estate,Mumbai,"506, Setty Path, Imphal-885188",06053926779,,,,Justdial,,,,
+137,Sule-Munshi,Restaurant,Delhi,"219, Raju Marg, Moradabad 438307",06429321685,,,,Sulekha,,,,
+138,Bhavsar-Sami,Electrician,Delhi,"95, Goswami Nagar, Kochi 925502",+911552833957,,,,Justdial,,,,
+139,Kaul-Bhatnagar,Education,Mumbai,"H.No. 71, Natt, Tirupati-357414",00974052964,,,,Justdial,,,,
+140,"Sarma, Balan and Mistry",Hospital,Chennai,"H.No. 654, Prakash Ganj, Kottayam 911594",+910294363038,,,,Justdial,,,,
+141,Andra Inc,Restaurant,Kolkata,"766, Ramanathan Path, Vellore 016176",03430186325,,,,Google Maps,,,,
+142,Loke PLC,Real Estate,Delhi,"H.No. 34, Cherian Road, Katni-966695",02882733973,,,,Sulekha,,,,
+143,Kar-Minhas,Hospital,Kolkata,"H.No. 66, Dixit Path, Tiruppur-007151",+919792902770,,,,Sulekha,,,,
+144,Menon PLC,IT Services,Bengaluru,"93, Karpe Circle, Cuttack-329552",04541757074,,,,Justdial,,,,
+145,More-Cheema,Education,Hyderabad,"H.No. 658, Patel Marg, Sambhal 908888",+914264912694,,,,Sulekha,,,,
+146,Bhandari-Menon,Plumber,Mumbai,"H.No. 986, Deep Street, Bhopal 351244",+912744373316,,,,Sulekha,,,,
+147,"Natt, Kulkarni and Prashad",Electrician,Kolkata,"H.No. 01, Chhabra Marg, Bangalore-963109",0641754208,,,,Sulekha,,,,
+148,"Kade, Brar and Vohra",Hospital,Delhi,"990, Sagar Nagar, Sambalpur-143656",6545322943,,,,Sulekha,,,,
+149,"Sachar, Patil and Ravi",Real Estate,Mumbai,"22/98, Prabhu Street, Rajkot-355834",7497050934,,,,Justdial,,,,
+150,"Misra, Buch and Babu",IT Services,Kolkata,"60, D’Alia Zila, Ambattur-740309",3112951390,,,,Sulekha,,,,
+151,Sahota-Kata,Hospital,Chennai,"04/308, Comar Marg, Berhampore-049143",+910204498212,,,,Sulekha,,,,
+152,Chowdhury-Yohannan,Electrician,Mumbai,"76, Hora Nagar, Loni 503972",02810106616,,,,Justdial,,,,
+153,Nayar-Gokhale,Restaurant,Pune,"68, Batra Ganj, Karimnagar 911624",2325600724,,,,Justdial,,,,
+154,Shere Ltd,Hospital,Kolkata,"59, Mandal Chowk, Bardhaman-393763",2331193685,,,,Justdial,,,,
+155,"Rattan, Butala and Patla",Plumber,Kolkata,"31, Radhakrishnan Circle, Pali-630862",04179703333,,,,Sulekha,,,,
+156,"Sankar, Pingle and Mahajan",Education,Pune,"H.No. 946, Pau, Anantapur 910479",3762805292,,,,Sulekha,,,,
+157,"Chauhan, Shroff and Talwar",Hospital,Ahmedabad,"H.No. 73, Rana Zila, Kharagpur-650159",+912725697674,,,,Sulekha,,,,
+158,"Dara, Chauhan and Babu",IT Services,Mumbai,"52/025, Kulkarni Path, Alappuzha-179585",01786541834,,,,Google Maps,,,,
+159,"Edwin, Dhaliwal and Ram",Education,Hyderabad,"56/34, Kohli Road, Rourkela 974581",07475914608,,,,Sulekha,,,,
+160,Edwin Ltd,Plumber,Mumbai,"45/10, Setty, Firozabad 145008",7847596885,,,,Justdial,,,,
+161,Bahl Inc,Restaurant,Pune,"H.No. 60, Tella, Thane-274751",+916929523501,,,,Google Maps,,,,
+162,Zachariah-Kakar,Gym,Delhi,"403, Shere Ganj, Durg-468225",4537648337,,,,Google Maps,,,,
+163,Choudhary-Nazareth,Hospital,Kolkata,"04/997, Balakrishnan Nagar, Tinsukia-007223",08084818721,,,,Sulekha,,,,
+164,Nanda Group,IT Services,Ahmedabad,"963, Brahmbhatt, Dhanbad 731265",00800005862,,,,Justdial,,,,
+165,"Sandal, Vala and Vig",Plumber,Chennai,"H.No. 203, Hayre Circle, Bally 236761",07379051784,,,,Justdial,,,,
+166,Chaudhary-Jani,Restaurant,Delhi,"41, Banik, Thoothukudi-626153",03794697388,,,,Sulekha,,,,
+167,"Lala, Varghese and Din",Real Estate,Mumbai,"91/44, Desai Zila, Vijayawada-897747",6117486036,,,,Sulekha,,,,
+168,Ram-Boase,Real Estate,Chennai,"275, Purohit Circle, Bhilwara-274591",07598237716,,,,Google Maps,,,,
+169,"Nagarajan, Kala and Pingle",Plumber,Hyderabad,"54/63, Salvi Road, Silchar-717222",+912715836840,,,,Google Maps,,,,
+170,Pandey-Nair,Gym,Ahmedabad,"91/709, Ben Marg, Jaunpur 060761",3348274850,,,,Justdial,,,,
+171,Hayer-Parsa,IT Services,Mumbai,"58, Chahal Zila, Tenali-303564",01524770472,,,,Justdial,,,,
+172,"Doctor, Setty and Chander",IT Services,Pune,"51/332, Maharaj Circle, Shimla 036050",+912390118502,,,,Google Maps,,,,
+173,Amble-Ben,Hospital,Mumbai,"05, Minhas, Anantapur 337439",04752338451,,,,Justdial,,,,
+174,"Pant, Puri and Sarin",Education,Kolkata,"58/82, Deol, Nizamabad 173942",04158479125,,,,Sulekha,,,,
+175,"Devan, Dave and Loyal",Electrician,Chennai,"H.No. 085, Rau Street, Kharagpur 914541",+916528187350,,,,Google Maps,,,,
+176,Aggarwal Ltd,Plumber,Delhi,"16/73, Cheema Road, Malegaon-304764",1523256433,,,,Justdial,,,,
+177,Chopra-Kamdar,Real Estate,Chennai,"485, Chatterjee Chowk, Amaravati-524295",+917654456970,,,,Sulekha,,,,
+178,Tank-Balakrishnan,Electrician,Chennai,"584, Chad Street, Lucknow-549997",03341630154,,,,Justdial,,,,
+179,Kapoor-Khosla,Gym,Kolkata,"13/72, Dua Path, Howrah 833713",1263910522,,,,Sulekha,,,,
+180,Singh Inc,Plumber,Chennai,"72/797, Parmar Zila, Sikar 760020",+914753124676,,,,Google Maps,,,,
+181,Bains PLC,Hospital,Kolkata,"H.No. 787, Toor Road, Sagar-646026",+913162945668,,,,Justdial,,,,
+182,Apte Inc,Gym,Chennai,"36/684, Chaudhry Ganj, Aizawl-516937",03778111697,,,,Sulekha,,,,
+183,"Butala, Wadhwa and Khanna",Gym,Hyderabad,"37/73, Narayanan Nagar, Tinsukia 738927",00684720082,,,,Justdial,,,,
+184,Kurian and Sons,Hospital,Delhi,"53/82, Krish Circle, Imphal-468124",05776409104,,,,Sulekha,,,,
+185,"Ramanathan, Jayaraman and Brar",Gym,Chennai,"H.No. 174, Devan Chowk, Ongole 706688",01592280206,,,,Justdial,,,,
+186,Mannan LLC,Real Estate,Kolkata,"H.No. 871, Zacharia Circle, Kota-737510",+911682779914,,,,Justdial,,,,
+187,"Joshi, Dayal and Wali",Education,Pune,"85/004, D’Alia Zila, Tadipatri-284186",09435676002,,,,Sulekha,,,,
+188,Kapoor-Bhavsar,IT Services,Chennai,"78, Gala Street, Nizamabad 382005",06154162817,,,,Google Maps,,,,
+189,"Balay, Chahal and Jayaraman",Hospital,Bengaluru,"H.No. 37, Bhatti Path, Coimbatore-060762",5733113262,,,,Justdial,,,,
+190,Barman and Sons,Restaurant,Delhi,"H.No. 927, Dhawan Zila, Surat-185199",02639776159,,,,Justdial,,,,
+191,Varma Inc,Plumber,Hyderabad,"93/47, Narayan, Chittoor-372906",06584065036,,,,Google Maps,,,,
+192,Hari-Devan,Electrician,Pune,"92, Rana Chowk, Jabalpur 145286",6898505985,,,,Justdial,,,,
+193,Solanki-Pradhan,Restaurant,Chennai,"624, Thaker Path, Mumbai-680935",9588233659,,,,Google Maps,,,,
+194,Wable-D’Alia,Plumber,Bengaluru,"H.No. 62, Loke Road, Jammu-675385",+915592256734,,,,Google Maps,,,,
+195,"Konda, Basak and Chaudhry",Electrician,Bengaluru,"H.No. 76, Iyer Zila, Vadodara-531390",+916357648460,,,,Justdial,,,,
+196,"Brahmbhatt, Gara and Narayanan",Real Estate,Bengaluru,"290, Prakash Street, Raichur-520700",05260198603,,,,Sulekha,,,,
+197,Choudhry-Kohli,Restaurant,Chennai,"83/755, Barad Road, Gaya 589699",08558402639,,,,Google Maps,,,,
+198,Pillay Ltd,Restaurant,Chennai,"46/332, Gour Path, Ludhiana-674090",07104427326,,,,Sulekha,,,,
+199,Sandhu-Chander,Plumber,Mumbai,"70/90, Dube Street, Orai-785488",6688256201,,,,Justdial,,,,
+200,"Grewal, Rao and Goda",Education,Chennai,"H.No. 971, Sarna Street, Thanjavur-235494",6680741496,,,,Justdial,,,,
+201,Varty LLC,IT Services,Delhi,"19, Sehgal Nagar, Guntur-057810",+919656367112,,,,Google Maps,,,,
+202,Sane-Manda,Hospital,Kolkata,"71/44, Pall Path, Ulhasnagar-043605",+911491379602,,,,Google Maps,,,,
+203,"Nath, Om and Buch",Restaurant,Hyderabad,"724, Rama Path, Surendranagar Dudhrej 114481",8549534257,,,,Sulekha,,,,
+204,Thakur-Babu,Gym,Hyderabad,"H.No. 893, Misra Path, Rajkot-681382",0231238524,,,,Sulekha,,,,
+205,Borah-Dhawan,Gym,Ahmedabad,"57, Khatri, Miryalaguda-538324",06359261534,,,,Justdial,,,,
+206,"Raj, Warrior and Rastogi",Plumber,Delhi,"785, Wason Ganj, Jehanabad-251417",+916207782970,,,,Sulekha,,,,
+207,Hayre Ltd,Real Estate,Bengaluru,"H.No. 65, Bhatti Path, Cuttack 177096",6669418124,,,,Google Maps,,,,
+208,Desai-Aurora,Real Estate,Chennai,"35, Baral, Siliguri 264757",06044003423,,,,Sulekha,,,,
+209,"Bhandari, Varghese and Puri",Restaurant,Ahmedabad,"H.No. 34, Mane Chowk, Surendranagar Dudhrej 846061",+912384201805,,,,Justdial,,,,
+210,"Seshadri, Dhingra and Desai",Restaurant,Kolkata,"83/47, Bhatia Ganj, Rourkela 370295",+918004628123,,,,Sulekha,,,,
+211,Gera PLC,Real Estate,Delhi,"87/92, Yadav, Bhavnagar-626663",03864258058,,,,Sulekha,,,,
+212,Kaul LLC,Plumber,Mumbai,"H.No. 138, Palan, Haridwar 512028",+911306070597,,,,Justdial,,,,
+213,Pingle-Barad,Education,Mumbai,"H.No. 239, Mohan Road, Davanagere 272073",00365754535,,,,Justdial,,,,
+214,Gola-Anne,Electrician,Chennai,"20/009, Swamy, Shahjahanpur-001083",3613271322,,,,Sulekha,,,,
+215,Bera-Master,Restaurant,Hyderabad,"130, Sarma Road, Tezpur-763209",4719085401,,,,Google Maps,,,,
+216,Prakash-Dugar,Restaurant,Hyderabad,"81/64, Sane Zila, Ulhasnagar 022593",09577558372,,,,Justdial,,,,
+217,Chaudhry PLC,Real Estate,Mumbai,"H.No. 06, Tata Chowk, Bhalswa Jahangir Pur-781668",+914802562746,,,,Sulekha,,,,
+218,"Raja, Barad and Hari",Education,Bengaluru,"94/36, Dugal Marg, Thoothukudi 304205",0060163969,,,,Sulekha,,,,
+219,Goda PLC,Hospital,Pune,"H.No. 47, Shanker Circle, Bhagalpur-062422",+916254139184,,,,Sulekha,,,,
+220,Master-Loke,IT Services,Ahmedabad,"H.No. 146, Doshi Nagar, Allahabad-878872",01912293228,,,,Google Maps,,,,
+221,Gulati-Anne,Gym,Chennai,"55, Date Zila, Hapur-437739",+918418731417,,,,Sulekha,,,,
+222,Rege-Patil,Plumber,Delhi,"12, Nigam Chowk, Ludhiana-422823",09904054383,,,,Google Maps,,,,
+223,Bhatt LLC,Plumber,Ahmedabad,"66/793, Grover Chowk, Gurgaon-915851",3809808489,,,,Justdial,,,,
+224,"Buch, Verma and Contractor",Education,Ahmedabad,"H.No. 356, Amble Ganj, Kishanganj-291355",+912401078942,,,,Google Maps,,,,
+225,Ahuja-Deshmukh,Real Estate,Kolkata,"145, Gole Ganj, Jaipur-253469",+911821533174,,,,Google Maps,,,,
+226,Dave-Raman,Real Estate,Delhi,"53, Bose Circle, Ongole 843889",+914458760332,,,,Justdial,,,,
+227,Dugal-Kaul,Plumber,Ahmedabad,"860, Ratti Zila, Panvel-119770",9351836626,,,,Sulekha,,,,
+228,"Lall, Kalla and Konda",Real Estate,Kolkata,"28/631, Garde Street, Maheshtala 534411",8022953467,,,,Justdial,,,,
+229,"Varughese, Khalsa and Sodhi",Electrician,Pune,"77/444, Sem Ganj, Tumkur 250348",9304430533,,,,Justdial,,,,
+230,Sangha Ltd,Plumber,Kolkata,"17/05, Barad Street, Gopalpur-239149",+917637787050,,,,Justdial,,,,
+231,"Raja, Prashad and Nagy",Restaurant,Hyderabad,"41, Pall Path, Parbhani 051732",01562545042,,,,Sulekha,,,,
+232,Kaul-Kulkarni,Electrician,Kolkata,"48/935, Muni Street, Pondicherry 882043",02586497559,,,,Sulekha,,,,
+233,"Sibal, Raman and Datta",Real Estate,Chennai,"35/401, Mitra Road, Nizamabad 971559",8189812129,,,,Sulekha,,,,
+234,"Gara, Hans and Jayaraman",Hospital,Ahmedabad,"H.No. 199, Jani Zila, Noida 174131",1139507331,,,,Justdial,,,,
+235,"Uppal, Tailor and Butala",Hospital,Kolkata,"00/124, Som Street, Surendranagar Dudhrej 228154",+913402652166,,,,Sulekha,,,,
+236,"Gaba, Borde and Mangal",Restaurant,Kolkata,"02, Virk Road, Bihar Sharif 846998",+913720872299,,,,Google Maps,,,,
+237,Virk-Wali,Plumber,Pune,"83/18, Batra, Anand-500968",+916914822899,,,,Justdial,,,,
+238,Shere and Sons,Hospital,Chennai,"10/15, Kapur Marg, Gangtok 814567",+911308250089,,,,Google Maps,,,,
+239,Deep PLC,IT Services,Chennai,"331, Deol Zila, Bulandshahr-970050",8699893293,,,,Justdial,,,,
+240,Kalla Ltd,Restaurant,Bengaluru,"18/473, Yadav Nagar, Ozhukarai-965172",09524465462,,,,Sulekha,,,,
+241,Nayar Group,Real Estate,Delhi,"H.No. 81, Vasa Street, Tadipatri 758544",+911263254276,,,,Justdial,,,,
+242,"Som, Nagi and Raman",Education,Pune,"77/430, Bahri Zila, Chandigarh-468361",+910901778576,,,,Sulekha,,,,
+243,Dar-Talwar,Electrician,Pune,"81, Pai Nagar, Malda-409752",+915884045890,,,,Justdial,,,,
+244,Krishnamurthy Ltd,Restaurant,Pune,"H.No. 07, Tara Circle, Howrah 513805",0903716634,,,,Sulekha,,,,
+245,Ramachandran-Suri,Plumber,Kolkata,"H.No. 47, Wadhwa Marg, Sultan Pur Majra 717639",04508161879,,,,Sulekha,,,,
+246,Salvi and Sons,Electrician,Pune,"77/04, Mistry Circle, Bilaspur-947071",02932233299,,,,Google Maps,,,,
+247,Chakraborty-Kara,IT Services,Delhi,"32/115, Doshi Street, Delhi-635228",+913285352845,,,,Google Maps,,,,
+248,Palan and Sons,Real Estate,Delhi,"H.No. 479, Ramaswamy Path, Bikaner 993269",05159031818,,,,Sulekha,,,,
+249,Mane-Palan,Hospital,Kolkata,"H.No. 55, Dube Road, Gorakhpur 696100",+912138086426,,,,Justdial,,,,
+250,Sule and Sons,Real Estate,Pune,"50/302, Sangha Chowk, Srinagar-914094",+910917883776,,,,Justdial,,,,
+251,"Sharaf, Ramanathan and Wason",Real Estate,Kolkata,"505, Toor Chowk, Kalyan-Dombivli-773106",1628011646,,,,Justdial,,,,
+252,Sachdev and Sons,Restaurant,Bengaluru,"51/723, Zachariah Ganj, Bhagalpur-715008",06952408911,,,,Sulekha,,,,
+253,Khanna-Balan,Real Estate,Mumbai,"H.No. 392, Sahni Chowk, Rourkela 819924",5826843578,,,,Sulekha,,,,
+254,Morar-Walia,IT Services,Bengaluru,"85/79, Khanna Chowk, Sasaram 788872",6063688393,,,,Justdial,,,,
+255,"Palla, Mander and Cheema",Real Estate,Kolkata,"H.No. 00, Pandey Circle, Bijapur-699285",+917075034096,,,,Sulekha,,,,
+256,Setty-Mangat,Electrician,Ahmedabad,"71/75, Chanda Nagar, Thrissur-551292",02261104415,,,,Sulekha,,,,
+257,Gulati-Lad,IT Services,Hyderabad,"04/534, Krishnamurthy, Kolkata-716781",2227706643,,,,Justdial,,,,
+258,Bhargava and Sons,Hospital,Ahmedabad,"53/926, Murthy Chowk, Davanagere 159227",+910539610735,,,,Google Maps,,,,
+259,Vohra-Chauhan,Plumber,Chennai,"47/47, Kaur Nagar, Sirsa-669988",6794398221,,,,Google Maps,,,,
+260,Kunda-Karpe,Plumber,Hyderabad,"H.No. 89, Swaminathan, Mysore-802070",3489115125,,,,Justdial,,,,
+261,"Ramachandran, Chad and Deep",Hospital,Ahmedabad,"97/82, Barad Path, Gurgaon 359137",4193335811,,,,Sulekha,,,,
+262,Walia-Nazareth,Electrician,Pune,"H.No. 15, Raja, Uluberia-375196",+911028730778,,,,Google Maps,,,,
+263,"Baral, Edwin and Subramaniam",Hospital,Mumbai,"626, Narayan Marg, Thoothukudi-047036",06132542991,,,,Sulekha,,,,
+264,Krish-Kothari,Real Estate,Chennai,"45/858, Mittal Chowk, Agra-857800",5046218991,,,,Justdial,,,,
+265,"Om, Tandon and Sahota",Electrician,Mumbai,"69/515, Dugar Path, Korba 156668",06599287251,,,,Sulekha,,,,
+266,Krishna LLC,Plumber,Delhi,"92, Kunda Chowk, Tirunelveli 341481",1861792027,,,,Sulekha,,,,
+267,"Chhabra, Puri and Balay",Hospital,Ahmedabad,"847, Gola Road, Patna-693095",+914249892483,,,,Justdial,,,,
+268,Malhotra-Chaudhry,Plumber,Chennai,"273, Andra, Barasat-643181",7805915714,,,,Sulekha,,,,
+269,Sant-Dhar,Restaurant,Bengaluru,"H.No. 222, Apte Path, Ramagundam 052456",+914392843751,,,,Google Maps,,,,
+270,"Kala, More and Kapadia",Real Estate,Hyderabad,"H.No. 078, Nath Ganj, Ranchi-328735",2587505525,,,,Justdial,,,,
+271,Bahri-Handa,Real Estate,Delhi,"H.No. 48, Edwin Chowk, Ratlam-152406",+917253874223,,,,Sulekha,,,,
+272,Chaudhari-Goswami,Plumber,Ahmedabad,"894, Rama Marg, Davanagere-839848",03309709370,,,,Google Maps,,,,
+273,Jani Inc,Restaurant,Bengaluru,"799, Tailor Chowk, Udupi-659608",+914109265736,,,,Google Maps,,,,
+274,Manne and Sons,Electrician,Chennai,"76/01, Sandal Street, Hajipur-183514",00564362021,,,,Justdial,,,,
+275,"Tella, Minhas and Bassi",Plumber,Delhi,"25/33, Bedi, Tirupati-647198",+912741224676,,,,Sulekha,,,,
+276,Dasgupta and Sons,Real Estate,Mumbai,"42/323, Bava Marg, Amaravati-578190",+915463104886,,,,Sulekha,,,,
+277,"Dhar, Srinivas and Rege",Electrician,Chennai,"H.No. 35, Baria Ganj, Raichur-816848",02246903172,,,,Justdial,,,,
+278,Parmer-Zacharia,Hospital,Ahmedabad,"07, Brar Street, Akola 473478",+913929976780,,,,Google Maps,,,,
+279,Ramakrishnan and Sons,Gym,Bengaluru,"82/823, Naik, Kishanganj-078326",+913527744173,,,,Sulekha,,,,
+280,"Dara, Murty and Issac",Electrician,Kolkata,"32, Lalla Street, Sasaram-791887",1816793927,,,,Justdial,,,,
+281,Setty Group,IT Services,Kolkata,"36, Golla Zila, Thane 883469",09376380105,,,,Sulekha,,,,
+282,Subramanian Inc,Plumber,Hyderabad,"68/50, Rai Street, Bilaspur 123245",+915142815138,,,,Sulekha,,,,
+283,Sule-Mangat,Gym,Hyderabad,"20/37, Gopal Street, Jalandhar-957875",01880679316,,,,Justdial,,,,
+284,Sane Ltd,Hospital,Bengaluru,"394, Lala Chowk, Patiala 007957",+918348380312,,,,Justdial,,,,
+285,"Brar, Gupta and Kapur",IT Services,Bengaluru,"65, Sarin Street, Kottayam 103244",03962245799,,,,Google Maps,,,,
+286,Sengupta-Varkey,Plumber,Delhi,"H.No. 19, Gill Zila, Ambala 096005",3222152845,,,,Google Maps,,,,
+287,Brahmbhatt PLC,Education,Bengaluru,"H.No. 18, Kuruvilla Road, Junagadh 990434",03649804750,,,,Justdial,,,,
+288,Sodhi Ltd,Plumber,Kolkata,"615, Padmanabhan, Kamarhati 228724",+912177518146,,,,Google Maps,,,,
+289,"Bains, Dada and Dada",Electrician,Pune,"584, Munshi, Jammu 260433",04101072811,,,,Justdial,,,,
+290,Bhatia-Soman,Hospital,Mumbai,"66/436, Talwar Chowk, Hosur 419898",4218261966,,,,Justdial,,,,
+291,Murty Group,Gym,Pune,"306, Mohanty Marg, Unnao 294821",+914976861176,,,,Justdial,,,,
+292,"Naidu, Kara and Vora",Electrician,Hyderabad,"51/515, Datta Marg, Durg 564793",+919755225121,,,,Google Maps,,,,
+293,"Bedi, Bora and Rai",IT Services,Bengaluru,"H.No. 334, Dua Marg, Berhampore 830868",+916983250971,,,,Justdial,,,,
+294,Kala-Borra,Real Estate,Bengaluru,"H.No. 787, Nigam Marg, Nagpur 558127",9425627532,,,,Google Maps,,,,
+295,Kanda Group,Restaurant,Kolkata,"93/405, Keer Marg, Akola 528548",+910324738260,,,,Sulekha,,,,
+296,Nadig Inc,Real Estate,Chennai,"09/02, Dhaliwal Ganj, Bareilly 508379",1902527498,,,,Google Maps,,,,
+297,"Patil, Thakkar and Anne",Education,Kolkata,"08/800, Kota Chowk, Ichalkaranji-721783",6325896799,,,,Justdial,,,,
+298,Ganesh-Bedi,Electrician,Bengaluru,"094, Bawa Street, Tiruvottiyur-113746",3326361215,,,,Google Maps,,,,
+299,Zachariah-Tandon,Real Estate,Chennai,"39/35, Parikh, Hajipur-054012",08117301014,,,,Google Maps,,,,
+300,Kade-Jani,Restaurant,Ahmedabad,"H.No. 87, Tiwari Nagar, Tenali-238530",+912684576497,,,,Justdial,,,,
+301,"Bahl, Chand and Sharaf",Plumber,Bengaluru,"H.No. 03, Dhar Chowk, Agartala 934061",7761770530,,,,Google Maps,,,,
+302,Bhatia PLC,IT Services,Kolkata,"55/58, Narayanan Ganj, Kolkata-804642",3413561698,,,,Sulekha,,,,
+303,Aggarwal and Sons,IT Services,Pune,"H.No. 29, Iyer Chowk, Yamunanagar-640369",4029382096,,,,Justdial,,,,
+304,Ranganathan-Varma,Education,Mumbai,"95/313, Ramanathan Marg, Gwalior-540656",7114405234,,,,Google Maps,,,,
+305,Khare-Kant,Real Estate,Delhi,"H.No. 04, Narain Ganj, Satna 388512",8599371696,,,,Justdial,,,,
+306,"Prashad, Tak and Wable",Hospital,Mumbai,"H.No. 492, Karnik Chowk, Belgaum 267281",+915883010023,,,,Sulekha,,,,
+307,"Kar, Jayaraman and Bal",Restaurant,Mumbai,"519, Parsa Marg, Jabalpur-832044",06645089250,,,,Justdial,,,,
+308,Cherian and Sons,Education,Pune,"60/95, Shroff Chowk, Howrah 573533",+919595623497,,,,Google Maps,,,,
+309,Subramaniam-Bhandari,Hospital,Bengaluru,"H.No. 948, Agrawal Path, Hyderabad-817223",06987491662,,,,Sulekha,,,,
+310,Trivedi-Chaudry,IT Services,Pune,"900, Puri, Singrauli 431162",02677572708,,,,Justdial,,,,
+311,"Bhatti, Chada and Deol",Electrician,Hyderabad,"H.No. 283, Maharaj Nagar, Silchar 462634",1275877098,,,,Sulekha,,,,
+312,"Tandon, Sachdeva and Nazareth",Plumber,Delhi,"64, Bava Road, Begusarai-439159",5240323649,,,,Sulekha,,,,
+313,Shetty-Barman,Restaurant,Delhi,"115, Badami Chowk, Delhi-453797",5087273820,,,,Google Maps,,,,
+314,Dube Ltd,Gym,Pune,"11/32, De Ganj, Ghaziabad-237503",04278521779,,,,Google Maps,,,,
+315,"Dalal, Khatri and Vasa",Hospital,Pune,"H.No. 032, Oza Nagar, Sonipat 678824",+914055261202,,,,Google Maps,,,,
+316,"Ganguly, Dewan and Bhakta",Plumber,Delhi,"370, Kata, Kottayam 249889",06016453617,,,,Sulekha,,,,
+317,Gandhi-Samra,Electrician,Kolkata,"309, Kibe Nagar, Bhubaneswar 329609",8042496825,,,,Sulekha,,,,
+318,"Salvi, Mane and Nazareth",Plumber,Mumbai,"04, Buch Ganj, Mahbubnagar 277677",3244184290,,,,Google Maps,,,,
+319,Kata-Merchant,Gym,Hyderabad,"86/764, Shah Chowk, Amaravati-493670",7714496388,,,,Justdial,,,,
+320,Goel-Rana,Education,Bengaluru,"H.No. 221, Din Ganj, Singrauli-364080",7024544118,,,,Google Maps,,,,
+321,"Krishnan, Bora and Thaman",Electrician,Delhi,"08/92, Anne Zila, Jalandhar-071804",9087445579,,,,Justdial,,,,
+322,Setty PLC,IT Services,Hyderabad,"329, Tailor Ganj, Rajkot-650958",+916104096805,,,,Sulekha,,,,
+323,"Issac, Ramaswamy and Sen",IT Services,Ahmedabad,"H.No. 27, Shah Marg, Kirari Suleman Nagar 535042",5479104782,,,,Justdial,,,,
+324,Parmar-Arya,Electrician,Chennai,"H.No. 40, Walia Nagar, Pali 354192",7371289922,,,,Google Maps,,,,
+325,Kulkarni-Srinivasan,IT Services,Kolkata,"24/666, Nayak Street, Jodhpur-953767",07754361937,,,,Sulekha,,,,
+326,Taneja Inc,Electrician,Delhi,"924, Srinivas Street, Udupi 791400",+910298186858,,,,Justdial,,,,
+327,Butala PLC,Restaurant,Pune,"05, Sastry Road, Navi Mumbai-083499",+914096573837,,,,Justdial,,,,
+328,Sule-Singhal,Gym,Mumbai,"46/286, Oza Marg, Thrissur 781388",03273362176,,,,Sulekha,,,,
+329,"Sidhu, Pandit and Walia",Restaurant,Kolkata,"02/726, Pal Marg, Bardhaman-583397",8966737868,,,,Google Maps,,,,
+330,Samra Inc,Gym,Chennai,"H.No. 29, Hora Nagar, Kadapa 593690",8060406564,,,,Google Maps,,,,
+331,Das Inc,Gym,Ahmedabad,"04/10, Gola Circle, Kurnool 699332",05815419732,,,,Google Maps,,,,
+332,"Pandya, Rout and Mital",Restaurant,Bengaluru,"002, Dora Path, Singrauli 322788",0944566091,,,,Google Maps,,,,
+333,"Manda, Sharma and Cheema",Electrician,Chennai,"H.No. 04, Swaminathan, Kurnool-622751",02979480635,,,,Justdial,,,,
+334,Divan Inc,Real Estate,Bengaluru,"10, Oak Zila, Guntur-449273",8261830938,,,,Google Maps,,,,
+335,Munshi-Vaidya,Hospital,Bengaluru,"H.No. 22, Ahluwalia Road, Bijapur 009826",+918080244199,,,,Google Maps,,,,
+336,Sinha-Prasad,Electrician,Ahmedabad,"H.No. 353, Madan Circle, Indore-408400",+917225589648,,,,Sulekha,,,,
+337,Sani Ltd,Gym,Pune,"H.No. 73, Vora Street, Shimoga-673040",+912400386187,,,,Google Maps,,,,
+338,Baria Ltd,Hospital,Delhi,"07/79, Kohli Nagar, Katihar 750279",01516568787,,,,Sulekha,,,,
+339,Devan-More,Plumber,Delhi,"65/32, Kari Zila, Panihati-746919",0148030713,,,,Sulekha,,,,
+340,Kalita PLC,Real Estate,Delhi,"H.No. 282, Saxena Chowk, Rewa 850672",09701858873,,,,Sulekha,,,,
+341,Suri-Bains,Real Estate,Delhi,"01/031, Badal Nagar, Vadodara-558983",0761812490,,,,Justdial,,,,
+342,"Boase, Deshpande and Khare",Real Estate,Mumbai,"25, Aurora Chowk, Nadiad 126052",06224343417,,,,Justdial,,,,
+343,Kota and Sons,IT Services,Bengaluru,"H.No. 51, Dey Street, Agra 873294",3846114804,,,,Google Maps,,,,
+344,"Kapadia, Vohra and Nagy",Real Estate,Hyderabad,"973, Ganguly Marg, Motihari-824718",+910471945300,,,,Sulekha,,,,
+345,Dutt-Peri,Education,Chennai,"773, Swaminathan, Bhopal 382483",09359510919,,,,Google Maps,,,,
+346,Hans-Sarin,Real Estate,Delhi,"08, Bose Zila, Vasai-Virar-934513",+912793962031,,,,Google Maps,,,,
+347,Date Group,Education,Mumbai,"70/30, Sane Ganj, Barasat 234982",+913299142199,,,,Justdial,,,,
+348,Kala-Ben,IT Services,Hyderabad,"857, Maharaj Nagar, Jaipur-191411",4480647150,,,,Justdial,,,,
+349,Khurana-Murty,Electrician,Pune,"31, Ravi Ganj, Visakhapatnam 858973",+913723507434,,,,Google Maps,,,,
+350,"Kar, Kaur and Saran",Gym,Pune,"00, Aurora Chowk, Kolhapur-536580",09744223609,,,,Justdial,,,,
+351,Mall-Deep,Gym,Pune,"97/69, Panchal, Mehsana-736650",4094250916,,,,Sulekha,,,,
+352,"Banerjee, Sodhi and Bhasin",Real Estate,Bengaluru,"H.No. 054, Puri Circle, Eluru-679914",4555468475,,,,Google Maps,,,,
+353,Rastogi and Sons,Education,Mumbai,"01/931, Bail Road, Noida-863401",04135195983,,,,Sulekha,,,,
+354,"Choudhary, Ramanathan and Murthy",Electrician,Chennai,"89/42, Majumdar Path, Sirsa-248998",06275007857,,,,Google Maps,,,,
+355,"Shere, Joshi and Gara",Hospital,Ahmedabad,"432, Chhabra Ganj, Shahjahanpur 709075",02023487603,,,,Google Maps,,,,
+356,"Munshi, Mitra and Chokshi",Real Estate,Ahmedabad,"98/822, Loyal Marg, Burhanpur 863175",4271700112,,,,Google Maps,,,,
+357,Bail and Sons,Real Estate,Bengaluru,"03/88, Lalla, Surat 598191",05346070524,,,,Google Maps,,,,
+358,Roy-Dixit,IT Services,Hyderabad,"852, Bhakta Zila, Jammu-248275",+913080059334,,,,Google Maps,,,,
+359,Bandi Group,Gym,Hyderabad,"42/39, Bhasin Road, Saharanpur-283032",9484911568,,,,Google Maps,,,,
+360,"Lala, Deol and Sant",IT Services,Pune,"32/247, Kothari Zila, Bhiwani-847543",+919526575188,,,,Justdial,,,,
+361,Natt-Pandit,Gym,Hyderabad,"27/50, Malhotra Nagar, Ongole 352445",1011583975,,,,Sulekha,,,,
+362,Pal Inc,Gym,Hyderabad,"014, Toor Road, Aligarh 416559",8806550593,,,,Sulekha,,,,
+363,Kala Group,Electrician,Bengaluru,"252, Pal Chowk, Buxar-315833",5552320426,,,,Google Maps,,,,
+364,Dugar Group,Restaurant,Bengaluru,"H.No. 42, Sethi Road, Kolhapur-003995",03315437538,,,,Sulekha,,,,
+365,Palla Group,Hospital,Bengaluru,"59/64, Rai Path, Bhavnagar 964386",3987875530,,,,Justdial,,,,
+366,Bath Ltd,Electrician,Pune,"407, Brar Zila, Navi Mumbai-601157",0535325746,,,,Google Maps,,,,
+367,Dutta Ltd,Restaurant,Bengaluru,"H.No. 74, Lall Nagar, Fatehpur-323398",04177844367,,,,Justdial,,,,
+368,"Srinivasan, Khosla and Chandran",Gym,Mumbai,"38, Walia, Bilaspur 805465",+916577127550,,,,Justdial,,,,
+369,Chawla and Sons,IT Services,Chennai,"H.No. 17, Jayaraman Road, Bhilai 368336",1660064326,,,,Sulekha,,,,
+370,"Sha, Cheema and Majumdar",Education,Chennai,"71/15, Johal Road, Agartala-257394",08030484131,,,,Justdial,,,,
+371,Shukla LLC,Electrician,Delhi,"72, Mann Chowk, Durg-187353",6382102809,,,,Sulekha,,,,
+372,Dhar Inc,Hospital,Hyderabad,"862, Kannan Circle, Visakhapatnam 356767",06831865585,,,,Google Maps,,,,
+373,Chatterjee Inc,Education,Mumbai,"43/208, Srivastava Road, Dehri 353983",4343087943,,,,Google Maps,,,,
+374,Kade Ltd,IT Services,Bengaluru,"H.No. 67, Prabhakar Zila, Rajkot 143314",01203302291,,,,Justdial,,,,
+375,Gill-Amble,Real Estate,Chennai,"14/09, Handa Path, Farrukhabad-359698",+918554610092,,,,Google Maps,,,,
+376,Johal Group,IT Services,Delhi,"H.No. 004, Dutta Path, Barasat-102416",03035681247,,,,Justdial,,,,
+377,Dasgupta LLC,Hospital,Hyderabad,"H.No. 652, Prabhakar Chowk, Gopalpur 514535",0723033291,,,,Sulekha,,,,
+378,Patla-Nagi,Gym,Delhi,"33/58, Barman Marg, Chittoor-037482",+916289787663,,,,Justdial,,,,
+379,"Aggarwal, Dasgupta and Balasubramanian",Plumber,Chennai,"H.No. 65, Sami Street, Kulti-307188",+910421231482,,,,Google Maps,,,,
+380,Wason Group,Plumber,Delhi,"H.No. 870, Chana Road, Bharatpur 645756",2969786436,,,,Google Maps,,,,
+381,"Khosla, Viswanathan and Balay",Plumber,Chennai,"H.No. 480, Buch Chowk, Bhatpara-744611",9181899143,,,,Sulekha,,,,
+382,"Tandon, Ramaswamy and Loyal",Electrician,Bengaluru,"H.No. 963, Sarin Zila, Shimoga 832447",9066791550,,,,Google Maps,,,,
+383,"Prasad, Gole and Parsa",Electrician,Kolkata,"H.No. 33, Sodhi, Bellary 873289",00439710204,,,,Justdial,,,,
+384,Nanda-Lanka,Gym,Mumbai,"39, Bajwa, Tirupati 606340",06992167015,,,,Justdial,,,,
+385,Bhardwaj LLC,Plumber,Delhi,"706, Luthra Chowk, Sultan Pur Majra 267297",09357716629,,,,Justdial,,,,
+386,Bhargava PLC,Real Estate,Bengaluru,"04/545, Basu Marg, Aurangabad-470083",+910600929212,,,,Sulekha,,,,
+387,Menon and Sons,Education,Mumbai,"77, Tata Ganj, Haldia 577304",+919039080844,,,,Justdial,,,,
+388,Batta LLC,Hospital,Bengaluru,"571, Cheema Chowk, Muzaffarpur-884909",7417111383,,,,Google Maps,,,,
+389,Kothari-Patel,Gym,Hyderabad,"50/094, Khalsa Ganj, Latur 451304",+910874339291,,,,Justdial,,,,
+390,Merchant Ltd,Gym,Bengaluru,"10/36, Jhaveri Path, Kottayam 822988",1845869631,,,,Google Maps,,,,
+391,Mani-Grewal,Electrician,Chennai,"H.No. 40, Pall Nagar, Kottayam-401124",+917420699601,,,,Justdial,,,,
+392,Shetty Ltd,Education,Bengaluru,"H.No. 551, Raman Path, Satara 757306",+918022377259,,,,Sulekha,,,,
+393,Khalsa-Manda,Electrician,Ahmedabad,"21/926, Babu, Thrissur 579419",+919858016431,,,,Sulekha,,,,
+394,"Badami, Tailor and Ratti",Real Estate,Chennai,"43, Mital Chowk, Bhilwara-368864",06626147561,,,,Sulekha,,,,
+395,"Choudhary, Dugal and Chhabra",IT Services,Bengaluru,"H.No. 557, Devan Zila, Gandhidham-072967",1380380011,,,,Google Maps,,,,
+396,"Kalla, Saraf and Swamy",Hospital,Pune,"13/04, Thakur Road, Jamshedpur-602409",+912083444939,,,,Justdial,,,,
+397,"Shanker, Mital and Khanna",Real Estate,Chennai,"H.No. 522, Gopal Zila, Bulandshahr 882448",+919929801941,,,,Sulekha,,,,
+398,Suri Inc,Gym,Mumbai,"H.No. 33, Bawa Chowk, Agra 414532",+910099002005,,,,Justdial,,,,
+399,Thakkar-Choudhry,Restaurant,Delhi,"59/817, Sur Ganj, Serampore-847981",+914209825548,,,,Sulekha,,,,
+400,Prakash-Virk,Hospital,Ahmedabad,"63/488, Minhas, Gulbarga 887768",0648899040,,,,Google Maps,,,,
+401,Morar-Sachar,Education,Delhi,"14/80, Murthy Path, Barasat 486357",+916107192571,,,,Google Maps,,,,
+402,"Varma, Uppal and Vyas",Hospital,Delhi,"194, Deo Marg, Bhalswa Jahangir Pur 785200",3516054305,,,,Sulekha,,,,
+403,Pillay-Barad,Restaurant,Delhi,"255, Nigam Road, Naihati-954134",+917193527710,,,,Google Maps,,,,
+404,Kalla Group,Education,Ahmedabad,"443, Kothari, Khandwa-290596",3647011547,,,,Google Maps,,,,
+405,Bhargava Ltd,Gym,Kolkata,"25/294, Sehgal Zila, Tumkur-308240",07760422342,,,,Justdial,,,,
+406,"Kapur, Gupta and Chadha",Electrician,Kolkata,"H.No. 90, Khurana Circle, Bhagalpur 385921",1571355213,,,,Google Maps,,,,
+407,Kota-Salvi,Hospital,Kolkata,"365, Shetty Ganj, Ratlam 070219",5676960035,,,,Google Maps,,,,
+408,"Naik, Pillay and Edwin",Restaurant,Bengaluru,"H.No. 380, Brar Path, Nagpur-033221",4137507451,,,,Google Maps,,,,
+409,Rana-Som,Electrician,Delhi,"H.No. 364, Madan Road, Bardhaman 712944",3750574469,,,,Sulekha,,,,
+410,Chokshi-Sood,Electrician,Pune,"H.No. 74, Dash Circle, Bongaigaon-739999",+915581897288,,,,Justdial,,,,
+411,Dugar Group,Gym,Chennai,"30/19, Shanker Zila, Firozabad 076361",02569048705,,,,Sulekha,,,,
+412,"Ramakrishnan, Dubey and Raman",Gym,Mumbai,"28/701, Mangal Marg, Khora  678784",4408573171,,,,Sulekha,,,,
+413,Gera Ltd,Electrician,Mumbai,"48/847, Sankar Zila, Jalna-116513",00176034366,,,,Sulekha,,,,
+414,Narayan-Vaidya,Restaurant,Chennai,"H.No. 07, Parmer Road, Pimpri-Chinchwad-794048",07809389179,,,,Sulekha,,,,
+415,Toor and Sons,Electrician,Bengaluru,"81/376, Srinivasan Zila, Bhavnagar-549736",06841942012,,,,Justdial,,,,
+416,Wagle Inc,Real Estate,Kolkata,"39, Bhardwaj Circle, Hazaribagh 942196",+911763210269,,,,Google Maps,,,,
+417,"Khare, Devan and Shroff",IT Services,Bengaluru,"H.No. 246, Sabharwal Path, Chandigarh 696636",04836554790,,,,Google Maps,,,,
+418,"Agarwal, Pingle and Subramaniam",Education,Hyderabad,"60/167, Agarwal Chowk, Kota-364783",+915918994159,,,,Sulekha,,,,
+419,Mann Inc,Restaurant,Hyderabad,"H.No. 13, Trivedi Road, Panipat-848803",2270517665,,,,Justdial,,,,
+420,"Choudhury, Lalla and Yohannan",Restaurant,Mumbai,"H.No. 746, Kata Ganj, Davanagere-628149",2788407815,,,,Justdial,,,,
+421,"Swamy, Kumar and Dhar",IT Services,Ahmedabad,"H.No. 65, Murty Ganj, Berhampur 046292",+913147113231,,,,Sulekha,,,,
+422,"Golla, Mohan and Rajagopalan",Electrician,Mumbai,"67/22, Sibal Street, Kirari Suleman Nagar-663062",04540679106,,,,Justdial,,,,
+423,"Mitra, Goel and Mand",Plumber,Hyderabad,"62/923, Padmanabhan Zila, Panvel 311087",00361867062,,,,Justdial,,,,
+424,Sekhon-Khanna,Restaurant,Kolkata,"72/02, Bora Circle, Raurkela Industrial Township-705850",8332838407,,,,Google Maps,,,,
+425,Vig-Bhat,Real Estate,Pune,"65/31, Mane Road, Uluberia 194284",05159246444,,,,Justdial,,,,
+426,"Palla, Singhal and Chander",Electrician,Kolkata,"H.No. 29, Parekh Zila, Begusarai-308217",05159661713,,,,Justdial,,,,
+427,"Sandal, Bala and Brar",Hospital,Mumbai,"14, Pall Ganj, Srinagar 403527",5802768208,,,,Google Maps,,,,
+428,Konda-Kulkarni,Real Estate,Hyderabad,"94, Chauhan Nagar, Srinagar 329367",+918124641769,,,,Justdial,,,,
+429,Palla-Borah,Plumber,Chennai,"H.No. 778, Sura Road, Madanapalle 437026",3612352255,,,,Justdial,,,,
+430,Som-Palla,Hospital,Delhi,"H.No. 883, Jayaraman, Guna-946371",+911706641310,,,,Sulekha,,,,
+431,Chand PLC,Restaurant,Bengaluru,"47/387, Bhatnagar Marg, Sagar-572231",08903896896,,,,Sulekha,,,,
+432,Wali Inc,Hospital,Pune,"98/933, Deo Zila, Ramagundam 709526",+913221508538,,,,Sulekha,,,,
+433,Baria PLC,IT Services,Ahmedabad,"H.No. 582, Sibal Marg, Amroha 217481",5118400689,,,,Sulekha,,,,
+434,Lal PLC,Gym,Mumbai,"H.No. 104, Sethi Nagar, Hazaribagh-273880",0919229902,,,,Sulekha,,,,
+435,Reddy-Seshadri,Hospital,Hyderabad,"48, Chander Circle, Junagadh-855864",+914004431447,,,,Google Maps,,,,
+436,Bhat PLC,Hospital,Ahmedabad,"H.No. 05, Kanda Ganj, Shivpuri 047017",+914113421563,,,,Justdial,,,,
+437,Biswas-Jha,Restaurant,Mumbai,"02/708, Ben Chowk, Panihati-631702",+910980874659,,,,Google Maps,,,,
+438,"Wali, Nair and Ramachandran",Plumber,Mumbai,"86, Suri Street, Jamalpur-632615",02485366718,,,,Google Maps,,,,
+439,"Kurian, Doctor and Lata",Education,Kolkata,"87/336, Desai Nagar, Meerut 756407",09241991505,,,,Sulekha,,,,
+440,Pandey-Date,Electrician,Pune,"21/24, Nath Circle, Chinsurah 481072",+913758246117,,,,Justdial,,,,
+441,Saxena-Din,Hospital,Hyderabad,"01, Nagar, Tiruvottiyur-808792",1482229770,,,,Google Maps,,,,
+442,Lala-Yogi,Education,Pune,"178, Pall Chowk, Kolhapur 080894",0507092455,,,,Sulekha,,,,
+443,Guha and Sons,Education,Pune,"14, Iyengar Chowk, South Dumdum-003606",9065547595,,,,Sulekha,,,,
+444,Lal-Lata,Real Estate,Ahmedabad,"149, Sunder Ganj, Ramagundam-280691",08033531278,,,,Google Maps,,,,
+445,Dhillon Group,Gym,Mumbai,"H.No. 018, Sibal Circle, Tenali-827970",8753418428,,,,Sulekha,,,,
+446,Halder-Raju,Hospital,Bengaluru,"97, Garde, Saharsa 827323",8136166726,,,,Sulekha,,,,
+447,Gaba-Chana,Education,Bengaluru,"740, Arya Street, Phagwara-414042",0595272243,,,,Google Maps,,,,
+448,"Srinivas, Rastogi and Butala",Gym,Pune,"78, Nath Marg, Bhilai 005576",8557278434,,,,Justdial,,,,
+449,Chana-Mandal,Real Estate,Pune,"982, Bala Chowk, Bahraich 436566",7155562623,,,,Justdial,,,,
+450,Kar LLC,Education,Ahmedabad,"H.No. 99, Venkatesh Street, Ongole-325167",00419573711,,,,Sulekha,,,,
+451,Guha Ltd,Gym,Mumbai,"938, Rao, Muzaffarpur 619967",0855990948,,,,Google Maps,,,,
+452,Kata-Taneja,Restaurant,Mumbai,"10/51, Kamdar Nagar, Siliguri 051421",6284886478,,,,Sulekha,,,,
+453,Krishna-Sachdeva,IT Services,Kolkata,"H.No. 936, Malhotra Street, Motihari-238414",+911753882809,,,,Justdial,,,,
+454,Sandhu PLC,Hospital,Delhi,"88/120, Krishnamurthy Nagar, Hubli–Dharwad-383549",07472522428,,,,Justdial,,,,
+455,"Merchant, Sehgal and Thakur",Hospital,Chennai,"90/29, Tata Road, Bhagalpur 425601",+913971723910,,,,Google Maps,,,,
+456,"Mani, Sidhu and Wadhwa",Electrician,Chennai,"H.No. 546, Bhattacharyya Nagar, Hazaribagh 987811",+913233763493,,,,Google Maps,,,,
+457,Seshadri PLC,Hospital,Kolkata,"H.No. 61, Kale Street, Naihati 655242",+917418647380,,,,Google Maps,,,,
+458,"Natarajan, Nigam and Singh",Education,Ahmedabad,"192, Dugar Street, Visakhapatnam 738439",05696411017,,,,Sulekha,,,,
+459,Arora Ltd,Education,Bengaluru,"H.No. 223, Chokshi Ganj, Barasat 576701",1123056383,,,,Sulekha,,,,
+460,"Dewan, Sankar and Jaggi",Hospital,Ahmedabad,"27/909, Korpal, Siwan 476514",6764976556,,,,Sulekha,,,,
+461,Raja-Khalsa,Restaurant,Pune,"30/685, Palla Street, Jamshedpur-121367",01446668396,,,,Sulekha,,,,
+462,Brar-Dhar,Gym,Delhi,"08, Sangha, Guntur-143811",+916400981332,,,,Justdial,,,,
+463,Sarkar-Prasad,Restaurant,Delhi,"088, Saxena Street, Raurkela Industrial Township 560228",2694863205,,,,Sulekha,,,,
+464,Sem-Bhatia,IT Services,Kolkata,"H.No. 39, Bhandari Nagar, Siliguri-152729",+919171266589,,,,Justdial,,,,
+465,"Bhasin, Kala and Rajan",IT Services,Hyderabad,"H.No. 950, Bahri Ganj, Mangalore-568662",+919938777657,,,,Sulekha,,,,
+466,Pant LLC,IT Services,Chennai,"41/025, Venkataraman Zila, Mangalore-165936",+914031571236,,,,Justdial,,,,
+467,"Murty, Zachariah and Bora",Restaurant,Kolkata,"H.No. 04, Biswas Zila, Moradabad 432757",+913421278441,,,,Sulekha,,,,
+468,"Hayer, Srinivasan and Comar",Electrician,Chennai,"337, Bhat, Phusro 099691",6943322652,,,,Google Maps,,,,
+469,Swaminathan-Dugar,Plumber,Kolkata,"85/569, Oak Chowk, Karawal Nagar 166589",09836775794,,,,Sulekha,,,,
+470,Handa Ltd,Real Estate,Ahmedabad,"75/85, Hans Path, Katihar 123392",07909273860,,,,Google Maps,,,,
+471,Dhaliwal and Sons,Plumber,Mumbai,"59/552, Char Road, Ballia 401703",3331049382,,,,Justdial,,,,
+472,Chacko Group,Real Estate,Delhi,"36, Memon Circle, Parbhani-964829",01695246304,,,,Google Maps,,,,
+473,Sha-Modi,Restaurant,Kolkata,"59/281, Sundaram Circle, Kota 148347",01702234439,,,,Google Maps,,,,
+474,Borde-Kapadia,Restaurant,Chennai,"H.No. 408, Narang Marg, Jalna 730688",0539876537,,,,Justdial,,,,
+475,Chakrabarti PLC,Real Estate,Kolkata,"69/62, Kaul, Patiala 821006",7131340334,,,,Sulekha,,,,
+476,"Sha, Shah and Sethi",Gym,Hyderabad,"22/19, Dass Street, Kishanganj-316582",+916480538152,,,,Sulekha,,,,
+477,Kannan LLC,Restaurant,Ahmedabad,"H.No. 11, Dyal Road, Parbhani-736075",+917846098104,,,,Google Maps,,,,
+478,"Morar, Sandal and Nayar",Restaurant,Ahmedabad,"H.No. 75, Warrior Ganj, Jalgaon-026990",1939934233,,,,Sulekha,,,,
+479,"Dewan, Sethi and Chhabra",IT Services,Mumbai,"321, Sharaf Marg, Muzaffarpur 152270",+917375600543,,,,Sulekha,,,,
+480,Dass-Raj,Gym,Pune,"29, Pandya Zila, Gangtok-384385",+911719152933,,,,Google Maps,,,,
+481,Natt-Kumer,Gym,Hyderabad,"H.No. 370, Rajagopal, Meerut-631693",05685392418,,,,Google Maps,,,,
+482,Kant-Sastry,Real Estate,Chennai,"50/90, Shukla Street, Solapur 109637",05100698380,,,,Google Maps,,,,
+483,"Saxena, Karpe and Palan",Education,Delhi,"74/601, Desai Marg, Nanded-813431",+911438116626,,,,Google Maps,,,,
+484,"Deol, Pandya and Murty",Hospital,Chennai,"75/267, Ramakrishnan Street, Coimbatore 884163",4023895525,,,,Justdial,,,,
+485,Mallick PLC,Education,Chennai,"80, Balay Circle, Ahmedabad 129704",+915988854374,,,,Justdial,,,,
+486,"Gole, Lalla and Sodhi",Real Estate,Hyderabad,"H.No. 989, Venkatesh, Etawah 824895",+912001862807,,,,Sulekha,,,,
+487,Madan and Sons,Electrician,Delhi,"H.No. 00, Ravi Zila, Sirsa 385345",2528254904,,,,Sulekha,,,,
+488,Wason-Suresh,Real Estate,Pune,"480, Venkataraman Path, Munger-722905",0224630612,,,,Sulekha,,,,
+489,"Devan, Kapoor and Kannan",IT Services,Bengaluru,"88/680, Pant Chowk, Dibrugarh 308714",+916929078007,,,,Sulekha,,,,
+490,"Edwin, Banerjee and Mital",Restaurant,Chennai,"847, Oza Marg, Orai 196774",+910156917947,,,,Google Maps,,,,
+491,"Mammen, Reddy and Bhagat",Education,Kolkata,"518, Banik Nagar, Ajmer-115329",+914866053065,,,,Google Maps,,,,
+492,"Krish, Konda and Borra",Electrician,Pune,"30/448, Ravi, Mango-999583",+914235045874,,,,Justdial,,,,
+493,Dalal Ltd,Restaurant,Chennai,"42, Oza, Mau 759389",08407174556,,,,Google Maps,,,,
+494,"Kamdar, Kumer and Dey",Education,Ahmedabad,"01, Chowdhury Nagar, Salem 278904",2354912637,,,,Google Maps,,,,
+495,Sarna-Pant,IT Services,Chennai,"97/249, Baria Zila, Guna-012866",+918482236307,,,,Google Maps,,,,
+496,"Varkey, Sundaram and Kibe",Education,Ahmedabad,"H.No. 20, Bhandari, Howrah 976586",+915476023007,,,,Justdial,,,,
+497,Wable PLC,Education,Ahmedabad,"H.No. 21, Sahota Marg, Gudivada 493932",02250718987,,,,Sulekha,,,,
+498,Chander-Sankaran,Real Estate,Mumbai,"H.No. 389, Ranganathan, Agra-082866",+915213642689,,,,Justdial,,,,
+499,Chad Ltd,Plumber,Ahmedabad,"34/52, Mall, Loni-968387",+914624525068,,,,Justdial,,,,
+500,Kamdar-Purohit,Real Estate,Bengaluru,"H.No. 34, Chandran Ganj, Karaikudi-759633",09599803927,,,,Justdial,,,,
+501,Nayar Group,Electrician,Pune,"H.No. 637, Dora Nagar, Shimoga 901462",+916627308954,,,,Google Maps,,,,
+502,"Parsa, Buch and Mannan",Plumber,Kolkata,"H.No. 98, Kalla Zila, Serampore 531369",08953456263,,,,Sulekha,,,,
+503,"Ramachandran, Natt and Doctor",Plumber,Ahmedabad,"37/371, Kohli Circle, Nangloi Jat-772279",09333229714,,,,Google Maps,,,,
+504,"Batta, Bora and Jhaveri",Plumber,Delhi,"23/169, Mallick Ganj, Faridabad 722390",2013057579,,,,Google Maps,,,,
+505,"Chauhan, Sen and Bhargava",Hospital,Ahmedabad,"43, Bajwa Chowk, Vadodara 660169",07932925975,,,,Sulekha,,,,
+506,Bhatnagar-Ratta,Gym,Pune,"35/30, Anand Street, Vijayanagaram 558578",01713453874,,,,Justdial,,,,
+507,Rajagopalan and Sons,Education,Pune,"09/90, Sem, Jamnagar-438966",2473823616,,,,Google Maps,,,,
+508,Rout-Venkataraman,Real Estate,Hyderabad,"H.No. 978, Nadkarni Zila, Indore 715289",+910539304441,,,,Justdial,,,,
+509,Sur-Jaggi,IT Services,Hyderabad,"H.No. 61, Patil Circle, Durg-238760",8047390589,,,,Justdial,,,,
+510,Tata-Shukla,Plumber,Pune,"H.No. 626, Patel, Ramgarh-582206",6891964991,,,,Google Maps,,,,
+511,Bava-Pai,IT Services,Delhi,"38/82, Swaminathan, Bhusawal 919436",01087742360,,,,Google Maps,,,,
+512,Kata-Balay,Electrician,Chennai,"H.No. 57, Krish Marg, Hyderabad 730989",+919068563294,,,,Justdial,,,,
+513,Kala-Mallick,Education,Pune,"25/771, Ratta Path, Davanagere 302953",0745325495,,,,Justdial,,,,
+514,Bhakta-Raval,Hospital,Chennai,"28, Karan, Ambattur 231080",3240112344,,,,Sulekha,,,,
+515,"Ghose, Merchant and Rama",Restaurant,Ahmedabad,"14/576, Minhas Nagar, Haldia-787443",+913636290437,,,,Justdial,,,,
+516,Dhar and Sons,IT Services,Chennai,"281, Merchant Road, Madanapalle 223785",3418574384,,,,Sulekha,,,,
+517,Lata and Sons,Education,Chennai,"H.No. 39, Ahluwalia, Bhusawal 481532",08170418378,,,,Sulekha,,,,
+518,"Kaul, Borde and Sampath",Restaurant,Ahmedabad,"H.No. 36, Bajwa Road, Nizamabad-128402",0235599536,,,,Sulekha,,,,
+519,"Rout, Rajan and Sama",Education,Chennai,"H.No. 54, Kade Circle, Firozabad 025751",7326593589,,,,Sulekha,,,,
+520,"Sehgal, Iyer and Bhalla",Plumber,Bengaluru,"08, Rama Road, Faridabad 624814",03825408309,,,,Google Maps,,,,
+521,Tella-Shanker,Restaurant,Kolkata,"19, Panchal Road, Bhiwandi 208272",01642785775,,,,Sulekha,,,,
+522,"Bail, Ganesan and Arya",Real Estate,Kolkata,"17, Pall Marg, Loni 015289",8036342179,,,,Google Maps,,,,
+523,Krishnamurthy LLC,Plumber,Kolkata,"689, Chauhan, Salem-749658",3644515447,,,,Google Maps,,,,
+524,"Acharya, Dani and Chana",Gym,Bengaluru,"H.No. 92, Bansal Ganj, Bahraich 796096",7845602513,,,,Sulekha,,,,
+525,Keer-Sastry,Real Estate,Mumbai,"89/78, Peri Road, Barasat-686168",+918900827689,,,,Google Maps,,,,
+526,"Sachdeva, Sabharwal and Joshi",Gym,Kolkata,"H.No. 946, Sarkar Road, Bihar Sharif-968426",07532622524,,,,Sulekha,,,,
+527,Arora-Bhakta,Plumber,Kolkata,"151, Loyal Nagar, Naihati-623652",06244577917,,,,Sulekha,,,,
+528,Date Inc,Electrician,Chennai,"70, Rai Chowk, Bhagalpur 730989",+915493620506,,,,Justdial,,,,
+529,"Nayar, Pandit and Srivastava",Electrician,Pune,"667, Krishnan Zila, Jaunpur-910673",3494218575,,,,Justdial,,,,
+530,"Ramesh, Sachar and Chadha",Gym,Chennai,"76/994, Chowdhury, Muzaffarpur 944478",+910523788289,,,,Justdial,,,,
+531,Minhas and Sons,Gym,Ahmedabad,"H.No. 806, Savant Chowk, Serampore 539524",+919503513573,,,,Google Maps,,,,
+532,"Dugar, Nagar and Warrior",Plumber,Bengaluru,"H.No. 495, Nayak Circle, Sonipat-876164",+911496082836,,,,Google Maps,,,,
+533,"Gokhale, Rastogi and Chatterjee",Restaurant,Delhi,"77/27, Menon Path, Madhyamgram 515535",0519446698,,,,Justdial,,,,
+534,Khanna-Lad,Real Estate,Mumbai,"17/77, Krish Street, New Delhi 875040",+913054466086,,,,Sulekha,,,,
+535,"Bahri, Varughese and Savant",IT Services,Chennai,"42/161, Varma Nagar, Tiruppur-285140",5724051099,,,,Sulekha,,,,
+536,Iyengar LLC,Restaurant,Ahmedabad,"H.No. 35, Murty Nagar, Gudivada-142282",06899455819,,,,Google Maps,,,,
+537,Mishra-Saini,Plumber,Pune,"351, Ravi Path, Guntur-498258",02879704151,,,,Google Maps,,,,
+538,"Bedi, Trivedi and Upadhyay",IT Services,Bengaluru,"H.No. 00, Khalsa Circle, Miryalaguda 195836",9278152588,,,,Justdial,,,,
+539,Gandhi-Chacko,IT Services,Ahmedabad,"34/510, Sampath Nagar, Alappuzha 091449",2962812888,,,,Justdial,,,,
+540,Mane Inc,Real Estate,Delhi,"H.No. 05, Joshi Road, Hyderabad-825133",+918895381388,,,,Google Maps,,,,
+541,"Luthra, Halder and Mody",Electrician,Pune,"586, Agrawal Circle, Rohtak 305732",2944674452,,,,Justdial,,,,
+542,Misra LLC,Hospital,Kolkata,"H.No. 078, Chahal Chowk, Vellore 816766",04373434383,,,,Google Maps,,,,
+543,Hari and Sons,Restaurant,Pune,"H.No. 931, Lalla Road, Khora -234979",4982244291,,,,Justdial,,,,
+544,Gokhale Ltd,Education,Kolkata,"H.No. 98, Gara Path, Panvel 189411",05835156306,,,,Justdial,,,,
+545,Amble-Krishnan,Restaurant,Chennai,"H.No. 290, Khatri Nagar, Panchkula 310863",05280574216,,,,Google Maps,,,,
+546,Dass Inc,Electrician,Chennai,"603, Vohra Marg, Panchkula-657816",0255366546,,,,Google Maps,,,,
+547,Reddy-Jayaraman,Real Estate,Chennai,"97, Mani Nagar, Kanpur 806170",05408785134,,,,Sulekha,,,,
+548,Shankar Inc,Real Estate,Delhi,"90, Anne Street, Sirsa-550909",+911992492065,,,,Sulekha,,,,
+549,Chopra LLC,Education,Pune,"05/36, Rai, Dharmavaram-202588",08580061921,,,,Sulekha,,,,
+550,"Sarma, Shukla and Lad",Electrician,Bengaluru,"H.No. 70, Bhasin Nagar, Lucknow 500576",01642369383,,,,Sulekha,,,,
+551,Restaurants Hub Ahmedabad 1,Restaurants,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:30:42
+552,Restaurants Hub Ahmedabad 2,Restaurants,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:30:42
+553,Restaurants Hub Ahmedabad 3,Restaurants,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:30:42
+554,Restaurants Hub Ahmedabad 4,Restaurants,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:30:42
+555,Restaurants Hub Ahmedabad 5,Restaurants,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:30:42
+556,Restaurants Hub Ahmedabad 6,Restaurants,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:30:42
+557,Restaurants Hub Ahmedabad 7,Restaurants,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:30:42
+558,Restaurants Hub Ahmedabad 8,Restaurants,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:30:42
+559,Restaurants Hub Ahmedabad 9,Restaurants,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:30:42
+560,Restaurants Hub Ahmedabad 10,Restaurants,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:30:42
+561,Restaurants Hub Ahmedabad 11,Restaurants,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:30:42
+562,Restaurants Hub Ahmedabad 12,Restaurants,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:30:42
+563,Restaurants Hub Ahmedabad 13,Restaurants,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:30:42
+564,Restaurants Hub Ahmedabad 14,Restaurants,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:30:42
+565,Restaurants Hub Ahmedabad 15,Restaurants,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:30:42
+566,JD Restaurants Ahmedabad 1,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:30:42
+567,JD Restaurants Ahmedabad 2,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:30:42
+568,JD Restaurants Ahmedabad 3,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:30:42
+569,JD Restaurants Ahmedabad 4,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:30:42
+570,JD Restaurants Ahmedabad 5,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:30:42
+571,JD Restaurants Ahmedabad 6,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:30:42
+572,JD Restaurants Ahmedabad 7,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:30:42
+573,JD Restaurants Ahmedabad 8,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:30:42
+574,JD Restaurants Ahmedabad 9,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:30:42
+575,JD Restaurants Ahmedabad 10,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:30:42
+576,JD Restaurants Ahmedabad 11,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:30:42
+577,JD Restaurants Ahmedabad 12,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:30:42
+578,JD Restaurants Ahmedabad 13,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:30:42
+579,JD Restaurants Ahmedabad 14,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:30:42
+580,JD Restaurants Ahmedabad 15,Restaurants,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:30:42
+581,Gyms Hub Ahmedabad 1,Gyms,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:30:54
+582,Gyms Hub Ahmedabad 2,Gyms,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:30:54
+583,Gyms Hub Ahmedabad 3,Gyms,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:30:54
+584,Gyms Hub Ahmedabad 4,Gyms,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:30:54
+585,Gyms Hub Ahmedabad 5,Gyms,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:30:54
+586,Gyms Hub Ahmedabad 6,Gyms,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:30:54
+587,Gyms Hub Ahmedabad 7,Gyms,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:30:54
+588,Gyms Hub Ahmedabad 8,Gyms,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:30:54
+589,Gyms Hub Ahmedabad 9,Gyms,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:30:54
+590,Gyms Hub Ahmedabad 10,Gyms,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:30:54
+591,Gyms Hub Ahmedabad 11,Gyms,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:30:54
+592,Gyms Hub Ahmedabad 12,Gyms,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:30:54
+593,Gyms Hub Ahmedabad 13,Gyms,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:30:54
+594,Gyms Hub Ahmedabad 14,Gyms,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:30:54
+595,Gyms Hub Ahmedabad 15,Gyms,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:30:54
+596,JD Gyms Ahmedabad 1,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:30:54
+597,JD Gyms Ahmedabad 2,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:30:54
+598,JD Gyms Ahmedabad 3,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:30:54
+599,JD Gyms Ahmedabad 4,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:30:54
+600,JD Gyms Ahmedabad 5,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:30:54
+601,JD Gyms Ahmedabad 6,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:30:54
+602,JD Gyms Ahmedabad 7,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:30:54
+603,JD Gyms Ahmedabad 8,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:30:54
+604,JD Gyms Ahmedabad 9,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:30:54
+605,JD Gyms Ahmedabad 10,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:30:54
+606,JD Gyms Ahmedabad 11,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:30:54
+607,JD Gyms Ahmedabad 12,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:30:54
+608,JD Gyms Ahmedabad 13,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:30:54
+609,JD Gyms Ahmedabad 14,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:30:54
+610,JD Gyms Ahmedabad 15,Gyms,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:30:54
+611,Hospitals Hub Ahmedabad 1,Hospitals,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:06
+612,Hospitals Hub Ahmedabad 2,Hospitals,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:06
+613,Hospitals Hub Ahmedabad 3,Hospitals,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:06
+614,Hospitals Hub Ahmedabad 4,Hospitals,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:06
+615,Hospitals Hub Ahmedabad 5,Hospitals,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:06
+616,Hospitals Hub Ahmedabad 6,Hospitals,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:06
+617,Hospitals Hub Ahmedabad 7,Hospitals,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:06
+618,Hospitals Hub Ahmedabad 8,Hospitals,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:06
+619,Hospitals Hub Ahmedabad 9,Hospitals,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:06
+620,Hospitals Hub Ahmedabad 10,Hospitals,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:06
+621,Hospitals Hub Ahmedabad 11,Hospitals,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:06
+622,Hospitals Hub Ahmedabad 12,Hospitals,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:06
+623,Hospitals Hub Ahmedabad 13,Hospitals,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:06
+624,Hospitals Hub Ahmedabad 14,Hospitals,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:06
+625,Hospitals Hub Ahmedabad 15,Hospitals,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:06
+626,JD Hospitals Ahmedabad 1,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:06
+627,JD Hospitals Ahmedabad 2,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:06
+628,JD Hospitals Ahmedabad 3,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:06
+629,JD Hospitals Ahmedabad 4,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:06
+630,JD Hospitals Ahmedabad 5,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:06
+631,JD Hospitals Ahmedabad 6,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:06
+632,JD Hospitals Ahmedabad 7,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:06
+633,JD Hospitals Ahmedabad 8,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:06
+634,JD Hospitals Ahmedabad 9,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:06
+635,JD Hospitals Ahmedabad 10,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:06
+636,JD Hospitals Ahmedabad 11,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:06
+637,JD Hospitals Ahmedabad 12,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:06
+638,JD Hospitals Ahmedabad 13,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:06
+639,JD Hospitals Ahmedabad 14,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:06
+640,JD Hospitals Ahmedabad 15,Hospitals,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:06
+641,Hotels Hub Ahmedabad 1,Hotels,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:08
+642,Hotels Hub Ahmedabad 2,Hotels,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:08
+643,Hotels Hub Ahmedabad 3,Hotels,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:08
+644,Hotels Hub Ahmedabad 4,Hotels,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:08
+645,Hotels Hub Ahmedabad 5,Hotels,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:08
+646,Hotels Hub Ahmedabad 6,Hotels,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:08
+647,Hotels Hub Ahmedabad 7,Hotels,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:08
+648,Hotels Hub Ahmedabad 8,Hotels,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:08
+649,Hotels Hub Ahmedabad 9,Hotels,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:08
+650,Hotels Hub Ahmedabad 10,Hotels,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:08
+651,Hotels Hub Ahmedabad 11,Hotels,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:08
+652,Hotels Hub Ahmedabad 12,Hotels,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:08
+653,Hotels Hub Ahmedabad 13,Hotels,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:08
+654,Hotels Hub Ahmedabad 14,Hotels,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:08
+655,Hotels Hub Ahmedabad 15,Hotels,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:08
+656,JD Hotels Ahmedabad 1,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:08
+657,JD Hotels Ahmedabad 2,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:08
+658,JD Hotels Ahmedabad 3,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:08
+659,JD Hotels Ahmedabad 4,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:08
+660,JD Hotels Ahmedabad 5,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:08
+661,JD Hotels Ahmedabad 6,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:08
+662,JD Hotels Ahmedabad 7,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:08
+663,JD Hotels Ahmedabad 8,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:08
+664,JD Hotels Ahmedabad 9,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:08
+665,JD Hotels Ahmedabad 10,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:08
+666,JD Hotels Ahmedabad 11,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:08
+667,JD Hotels Ahmedabad 12,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:08
+668,JD Hotels Ahmedabad 13,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:08
+669,JD Hotels Ahmedabad 14,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:08
+670,JD Hotels Ahmedabad 15,Hotels,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:08
+671,SHREE HARI TRAVELS,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:16
+672,Felizviaje Holidays Pvt Ltd,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:16
+673,Travel banjara,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:16
+674,Wish your destination,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:16
+675,The Global Voyage,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:16
+676,Travels Duniyaa,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:16
+677,Hotel Radiant,Hotels,Ahmedabad,"Paldi,                         Ahmedabad, 380007",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:16
+678,Wings your way,Hotels,Ahmedabad,"Ahmedabad, 380004",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:16
+679,IRCTC BOOKING SERVICE,Hotels,Ahmedabad,"Paldi,                         Ahmedabad, 380009",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:16
+680,Hotel Meghdeep,Hotels,Ahmedabad,"Narol,                         Ahmedabad, 382440",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:16
+681,Salons Hub Ahmedabad 1,Salons,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:16
+682,Salons Hub Ahmedabad 2,Salons,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:16
+683,Salons Hub Ahmedabad 3,Salons,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:16
+684,Salons Hub Ahmedabad 4,Salons,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:16
+685,Salons Hub Ahmedabad 5,Salons,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:16
+686,Salons Hub Ahmedabad 6,Salons,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:16
+687,Salons Hub Ahmedabad 7,Salons,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:16
+688,Salons Hub Ahmedabad 8,Salons,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:16
+689,Salons Hub Ahmedabad 9,Salons,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:16
+690,Salons Hub Ahmedabad 10,Salons,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:16
+691,Salons Hub Ahmedabad 11,Salons,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:16
+692,Salons Hub Ahmedabad 12,Salons,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:16
+693,Salons Hub Ahmedabad 13,Salons,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:16
+694,Salons Hub Ahmedabad 14,Salons,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:16
+695,Salons Hub Ahmedabad 15,Salons,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:16
+696,JD Salons Ahmedabad 1,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:16
+697,JD Salons Ahmedabad 2,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:16
+698,JD Salons Ahmedabad 3,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:16
+699,JD Salons Ahmedabad 4,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:16
+700,JD Salons Ahmedabad 5,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:16
+701,JD Salons Ahmedabad 6,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:16
+702,JD Salons Ahmedabad 7,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:16
+703,JD Salons Ahmedabad 8,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:16
+704,JD Salons Ahmedabad 9,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:16
+705,JD Salons Ahmedabad 10,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:16
+706,JD Salons Ahmedabad 11,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:16
+707,JD Salons Ahmedabad 12,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:16
+708,JD Salons Ahmedabad 13,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:16
+709,JD Salons Ahmedabad 14,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:16
+710,JD Salons Ahmedabad 15,Salons,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:16
+711,Cafes Hub Ahmedabad 1,Cafes,Ahmedabad,"1 Main Street, Ahmedabad",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:18
+712,Cafes Hub Ahmedabad 2,Cafes,Ahmedabad,"2 Main Street, Ahmedabad",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:18
+713,Cafes Hub Ahmedabad 3,Cafes,Ahmedabad,"3 Main Street, Ahmedabad",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:18
+714,Cafes Hub Ahmedabad 4,Cafes,Ahmedabad,"4 Main Street, Ahmedabad",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:18
+715,Cafes Hub Ahmedabad 5,Cafes,Ahmedabad,"5 Main Street, Ahmedabad",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:18
+716,Cafes Hub Ahmedabad 6,Cafes,Ahmedabad,"6 Main Street, Ahmedabad",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:18
+717,Cafes Hub Ahmedabad 7,Cafes,Ahmedabad,"7 Main Street, Ahmedabad",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:18
+718,Cafes Hub Ahmedabad 8,Cafes,Ahmedabad,"8 Main Street, Ahmedabad",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:18
+719,Cafes Hub Ahmedabad 9,Cafes,Ahmedabad,"9 Main Street, Ahmedabad",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:18
+720,Cafes Hub Ahmedabad 10,Cafes,Ahmedabad,"10 Main Street, Ahmedabad",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:18
+721,Cafes Hub Ahmedabad 11,Cafes,Ahmedabad,"11 Main Street, Ahmedabad",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:18
+722,Cafes Hub Ahmedabad 12,Cafes,Ahmedabad,"12 Main Street, Ahmedabad",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:18
+723,Cafes Hub Ahmedabad 13,Cafes,Ahmedabad,"13 Main Street, Ahmedabad",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:18
+724,Cafes Hub Ahmedabad 14,Cafes,Ahmedabad,"14 Main Street, Ahmedabad",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:18
+725,Cafes Hub Ahmedabad 15,Cafes,Ahmedabad,"15 Main Street, Ahmedabad",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:18
+726,JD Cafes Ahmedabad 1,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:18
+727,JD Cafes Ahmedabad 2,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:18
+728,JD Cafes Ahmedabad 3,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:18
+729,JD Cafes Ahmedabad 4,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:18
+730,JD Cafes Ahmedabad 5,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:18
+731,JD Cafes Ahmedabad 6,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:18
+732,JD Cafes Ahmedabad 7,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:18
+733,JD Cafes Ahmedabad 8,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:18
+734,JD Cafes Ahmedabad 9,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:18
+735,JD Cafes Ahmedabad 10,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:18
+736,JD Cafes Ahmedabad 11,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:18
+737,JD Cafes Ahmedabad 12,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:18
+738,JD Cafes Ahmedabad 13,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:18
+739,JD Cafes Ahmedabad 14,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:18
+740,JD Cafes Ahmedabad 15,Cafes,Ahmedabad,"JD Complex, Ahmedabad",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:18
+741,Restaurants Hub Mumbai 1,Restaurants,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:21
+742,Restaurants Hub Mumbai 2,Restaurants,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:21
+743,Restaurants Hub Mumbai 3,Restaurants,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:21
+744,Restaurants Hub Mumbai 4,Restaurants,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:21
+745,Restaurants Hub Mumbai 5,Restaurants,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:21
+746,Restaurants Hub Mumbai 6,Restaurants,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:21
+747,Restaurants Hub Mumbai 7,Restaurants,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:21
+748,Restaurants Hub Mumbai 8,Restaurants,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:21
+749,Restaurants Hub Mumbai 9,Restaurants,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:21
+750,Restaurants Hub Mumbai 10,Restaurants,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:21
+751,Restaurants Hub Mumbai 11,Restaurants,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:21
+752,Restaurants Hub Mumbai 12,Restaurants,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:21
+753,Restaurants Hub Mumbai 13,Restaurants,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:21
+754,Restaurants Hub Mumbai 14,Restaurants,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:21
+755,Restaurants Hub Mumbai 15,Restaurants,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:21
+756,JD Restaurants Mumbai 1,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:21
+757,JD Restaurants Mumbai 2,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:21
+758,JD Restaurants Mumbai 3,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:21
+759,JD Restaurants Mumbai 4,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:21
+760,JD Restaurants Mumbai 5,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:21
+761,JD Restaurants Mumbai 6,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:21
+762,JD Restaurants Mumbai 7,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:21
+763,JD Restaurants Mumbai 8,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:21
+764,JD Restaurants Mumbai 9,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:21
+765,JD Restaurants Mumbai 10,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:21
+766,JD Restaurants Mumbai 11,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:21
+767,JD Restaurants Mumbai 12,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:21
+768,JD Restaurants Mumbai 13,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:21
+769,JD Restaurants Mumbai 14,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:21
+770,JD Restaurants Mumbai 15,Restaurants,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:21
+771,Adelkars Kitchen,Restaurants,Mumbai,"Goregaon West,                         Mumbai, 400062",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:24
+772,Awaywegoo,Restaurants,Mumbai,,+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:24
+773,Paprika Restaurant Multicuisine Hub,Restaurants,Mumbai,"Vasai West,                         Mumbai, 401202",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:24
+774,Seven Eleven Club,Restaurants,Mumbai,"Mira Road,                         Mumbai, 401107",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:24
+775,AMRUTRAJ CORPORATE GROUP Conglomerate,Restaurants,Mumbai,"Khar East,                         Mumbai, 400055",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:24
+776,Shrinath Ice Cream,Restaurants,Mumbai,"Kopar Khairane,                         Mumbai, 400709",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:24
+777,Chhotu Maharaj - Cine Restaurant,Restaurants,Mumbai,"Andheri West,                         Mumbai, 400053",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:24
+778,Moti Mahal,Restaurants,Mumbai,"Bandra West,                         Mumbai, 400050",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:24
+779,Noorani,Restaurants,Mumbai,"Mumbra,                         Mumbai, 400612",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:24
+780,7 inch shawarma,Restaurants,Mumbai,,+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:24
+781,Gyms Hub Mumbai 1,Gyms,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:24
+782,Gyms Hub Mumbai 2,Gyms,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:24
+783,Gyms Hub Mumbai 3,Gyms,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:24
+784,Gyms Hub Mumbai 4,Gyms,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:24
+785,Gyms Hub Mumbai 5,Gyms,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:24
+786,Gyms Hub Mumbai 6,Gyms,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:24
+787,Gyms Hub Mumbai 7,Gyms,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:24
+788,Gyms Hub Mumbai 8,Gyms,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:24
+789,Gyms Hub Mumbai 9,Gyms,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:24
+790,Gyms Hub Mumbai 10,Gyms,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:24
+791,Gyms Hub Mumbai 11,Gyms,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:24
+792,Gyms Hub Mumbai 12,Gyms,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:24
+793,Gyms Hub Mumbai 13,Gyms,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:24
+794,Gyms Hub Mumbai 14,Gyms,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:24
+795,Gyms Hub Mumbai 15,Gyms,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:24
+796,JD Gyms Mumbai 1,Gyms,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:24
+797,JD Gyms Mumbai 2,Gyms,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:24
+798,JD Gyms Mumbai 3,Gyms,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:24
+799,JD Gyms Mumbai 4,Gyms,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:24
+800,JD Gyms Mumbai 5,Gyms,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:24
+801,JD Gyms Mumbai 6,Gyms,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:24
+802,JD Gyms Mumbai 7,Gyms,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:24
+803,JD Gyms Mumbai 8,Gyms,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:24
+804,JD Gyms Mumbai 9,Gyms,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:24
+805,JD Gyms Mumbai 10,Gyms,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:24
+806,JD Gyms Mumbai 11,Gyms,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:24
+807,JD Gyms Mumbai 12,Gyms,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:24
+808,JD Gyms Mumbai 13,Gyms,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:24
+809,JD Gyms Mumbai 14,Gyms,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:24
+810,JD Gyms Mumbai 15,Gyms,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:24
+811,EVOLUTION OF MOVEMENT,Gyms,Mumbai,"Colaba,                         Mumbai, 400005",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:27
+812,Falcon Slim,Gyms,Mumbai,"Airoli,                         Mumbai, 400708",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:27
+813,United Strength Boutique Gym,Gyms,Mumbai,"Juhu,                         Mumbai, 400056",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:27
+814,Rohit Arun Dhivar,Gyms,Mumbai,"Bandra West,                         Mumbai, 400051",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:27
+815,Gamma fitness centre,Gyms,Mumbai,"Sakinaka,                         Mumbai, 400070",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:27
+816,V4S Fitness,Gyms,Mumbai,"Vashi,                         Mumbai, 400703",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:27
+817,Skillwize IT Learning Center,Gyms,Mumbai,"Mumbra,                         Mumbai, 400612",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:27
+818,Fit & Fine Slimming Clinic,Gyms,Mumbai,"Andheri East,                         Mumbai, 400069",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:27
+819,Magnum Fitness,Gyms,Mumbai,,+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:27
+820,GURUKRUPA PLACEMENT & EDUCATION SOLUTIONS PVT LTD,Gyms,Mumbai,"Gorai,                         Mumbai, 400092",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:27
+821,Hospitals Hub Mumbai 1,Hospitals,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:27
+822,Hospitals Hub Mumbai 2,Hospitals,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:27
+823,Hospitals Hub Mumbai 3,Hospitals,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:27
+824,Hospitals Hub Mumbai 4,Hospitals,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:27
+825,Hospitals Hub Mumbai 5,Hospitals,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:27
+826,Hospitals Hub Mumbai 6,Hospitals,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:27
+827,Hospitals Hub Mumbai 7,Hospitals,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:27
+828,Hospitals Hub Mumbai 8,Hospitals,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:27
+829,Hospitals Hub Mumbai 9,Hospitals,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:27
+830,Hospitals Hub Mumbai 10,Hospitals,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:27
+831,Hospitals Hub Mumbai 11,Hospitals,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:27
+832,Hospitals Hub Mumbai 12,Hospitals,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:27
+833,Hospitals Hub Mumbai 13,Hospitals,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:27
+834,Hospitals Hub Mumbai 14,Hospitals,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:27
+835,Hospitals Hub Mumbai 15,Hospitals,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:27
+836,JD Hospitals Mumbai 1,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:27
+837,JD Hospitals Mumbai 2,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:27
+838,JD Hospitals Mumbai 3,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:27
+839,JD Hospitals Mumbai 4,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:27
+840,JD Hospitals Mumbai 5,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:27
+841,JD Hospitals Mumbai 6,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:27
+842,JD Hospitals Mumbai 7,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:27
+843,JD Hospitals Mumbai 8,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:27
+844,JD Hospitals Mumbai 9,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:27
+845,JD Hospitals Mumbai 10,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:27
+846,JD Hospitals Mumbai 11,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:27
+847,JD Hospitals Mumbai 12,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:27
+848,JD Hospitals Mumbai 13,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:27
+849,JD Hospitals Mumbai 14,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:27
+850,JD Hospitals Mumbai 15,Hospitals,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:27
+851,Hotels Hub Mumbai 1,Hotels,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:29
+852,Hotels Hub Mumbai 2,Hotels,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:29
+853,Hotels Hub Mumbai 3,Hotels,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:29
+854,Hotels Hub Mumbai 4,Hotels,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:29
+855,Hotels Hub Mumbai 5,Hotels,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:29
+856,Hotels Hub Mumbai 6,Hotels,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:29
+857,Hotels Hub Mumbai 7,Hotels,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:29
+858,Hotels Hub Mumbai 8,Hotels,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:29
+859,Hotels Hub Mumbai 9,Hotels,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:29
+860,Hotels Hub Mumbai 10,Hotels,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:29
+861,Hotels Hub Mumbai 11,Hotels,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:29
+862,Hotels Hub Mumbai 12,Hotels,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:29
+863,Hotels Hub Mumbai 13,Hotels,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:29
+864,Hotels Hub Mumbai 14,Hotels,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:29
+865,Hotels Hub Mumbai 15,Hotels,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:29
+866,JD Hotels Mumbai 1,Hotels,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:29
+867,JD Hotels Mumbai 2,Hotels,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:29
+868,JD Hotels Mumbai 3,Hotels,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:29
+869,JD Hotels Mumbai 4,Hotels,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:29
+870,JD Hotels Mumbai 5,Hotels,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:29
+871,JD Hotels Mumbai 6,Hotels,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:29
+872,JD Hotels Mumbai 7,Hotels,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:29
+873,JD Hotels Mumbai 8,Hotels,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:29
+874,JD Hotels Mumbai 9,Hotels,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:29
+875,JD Hotels Mumbai 10,Hotels,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:29
+876,JD Hotels Mumbai 11,Hotels,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:29
+877,JD Hotels Mumbai 12,Hotels,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:29
+878,JD Hotels Mumbai 13,Hotels,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:29
+879,JD Hotels Mumbai 14,Hotels,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:29
+880,JD Hotels Mumbai 15,Hotels,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:29
+881,Tulsi Home Stay,Hotels,Mumbai,"Kandivali East,                         Mumbai, 400101",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:32
+882,Felizviaje Holidays Pvt Ltd,Hotels,Mumbai,"Mumbai, 400002",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:32
+883,Travel banjara,Hotels,Mumbai,"Mumbai, 400002",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:32
+884,Laxmi Villa,Hotels,Mumbai,"Goregaon East,                         Mumbai, 400063",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:32
+885,Wish your destination,Hotels,Mumbai,"Mumbai, 400002",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:32
+886,Evergreen Hotel,Hotels,Mumbai,"Khar West,                         Mumbai, 400052",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:32
+887,The Global Voyage,Hotels,Mumbai,"Mumbai, 400002",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:32
+888,Travels Duniyaa,Hotels,Mumbai,"Mumbai, 400002",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:32
+889,Andaman Ocean Tours and Travels,Hotels,Mumbai,"Mumbai, 400002",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:32
+890,Wings your way,Hotels,Mumbai,"Mumbai, 400002",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:32
+891,Salons Hub Mumbai 1,Salons,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:32
+892,Salons Hub Mumbai 2,Salons,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:32
+893,Salons Hub Mumbai 3,Salons,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:32
+894,Salons Hub Mumbai 4,Salons,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:32
+895,Salons Hub Mumbai 5,Salons,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:32
+896,Salons Hub Mumbai 6,Salons,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:32
+897,Salons Hub Mumbai 7,Salons,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:32
+898,Salons Hub Mumbai 8,Salons,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:32
+899,Salons Hub Mumbai 9,Salons,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:32
+900,Salons Hub Mumbai 10,Salons,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:32
+901,Salons Hub Mumbai 11,Salons,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:32
+902,Salons Hub Mumbai 12,Salons,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:32
+903,Salons Hub Mumbai 13,Salons,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:32
+904,Salons Hub Mumbai 14,Salons,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:32
+905,Salons Hub Mumbai 15,Salons,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:32
+906,JD Salons Mumbai 1,Salons,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:32
+907,JD Salons Mumbai 2,Salons,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:32
+908,JD Salons Mumbai 3,Salons,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:32
+909,JD Salons Mumbai 4,Salons,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:32
+910,JD Salons Mumbai 5,Salons,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:32
+911,JD Salons Mumbai 6,Salons,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:32
+912,JD Salons Mumbai 7,Salons,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:32
+913,JD Salons Mumbai 8,Salons,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:32
+914,JD Salons Mumbai 9,Salons,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:32
+915,JD Salons Mumbai 10,Salons,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:32
+916,JD Salons Mumbai 11,Salons,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:32
+917,JD Salons Mumbai 12,Salons,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:32
+918,JD Salons Mumbai 13,Salons,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:32
+919,JD Salons Mumbai 14,Salons,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:32
+920,JD Salons Mumbai 15,Salons,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:32
+921,Cafes Hub Mumbai 1,Cafes,Mumbai,"1 Main Street, Mumbai",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:34
+922,Cafes Hub Mumbai 2,Cafes,Mumbai,"2 Main Street, Mumbai",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:34
+923,Cafes Hub Mumbai 3,Cafes,Mumbai,"3 Main Street, Mumbai",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:34
+924,Cafes Hub Mumbai 4,Cafes,Mumbai,"4 Main Street, Mumbai",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:34
+925,Cafes Hub Mumbai 5,Cafes,Mumbai,"5 Main Street, Mumbai",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:34
+926,Cafes Hub Mumbai 6,Cafes,Mumbai,"6 Main Street, Mumbai",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:34
+927,Cafes Hub Mumbai 7,Cafes,Mumbai,"7 Main Street, Mumbai",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:34
+928,Cafes Hub Mumbai 8,Cafes,Mumbai,"8 Main Street, Mumbai",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:34
+929,Cafes Hub Mumbai 9,Cafes,Mumbai,"9 Main Street, Mumbai",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:34
+930,Cafes Hub Mumbai 10,Cafes,Mumbai,"10 Main Street, Mumbai",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:34
+931,Cafes Hub Mumbai 11,Cafes,Mumbai,"11 Main Street, Mumbai",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:34
+932,Cafes Hub Mumbai 12,Cafes,Mumbai,"12 Main Street, Mumbai",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:34
+933,Cafes Hub Mumbai 13,Cafes,Mumbai,"13 Main Street, Mumbai",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:34
+934,Cafes Hub Mumbai 14,Cafes,Mumbai,"14 Main Street, Mumbai",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:34
+935,Cafes Hub Mumbai 15,Cafes,Mumbai,"15 Main Street, Mumbai",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:34
+936,JD Cafes Mumbai 1,Cafes,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:34
+937,JD Cafes Mumbai 2,Cafes,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:34
+938,JD Cafes Mumbai 3,Cafes,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:34
+939,JD Cafes Mumbai 4,Cafes,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:34
+940,JD Cafes Mumbai 5,Cafes,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:34
+941,JD Cafes Mumbai 6,Cafes,Mumbai,"JD Complex, Mumbai",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:34
+942,JD Cafes Mumbai 7,Cafes,Mumbai,"JD Complex, Mumbai",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:34
+943,JD Cafes Mumbai 8,Cafes,Mumbai,"JD Complex, Mumbai",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:34
+944,JD Cafes Mumbai 9,Cafes,Mumbai,"JD Complex, Mumbai",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:34
+945,JD Cafes Mumbai 10,Cafes,Mumbai,"JD Complex, Mumbai",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:34
+946,JD Cafes Mumbai 11,Cafes,Mumbai,"JD Complex, Mumbai",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:34
+947,JD Cafes Mumbai 12,Cafes,Mumbai,"JD Complex, Mumbai",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:34
+948,JD Cafes Mumbai 13,Cafes,Mumbai,"JD Complex, Mumbai",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:34
+949,JD Cafes Mumbai 14,Cafes,Mumbai,"JD Complex, Mumbai",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:34
+950,JD Cafes Mumbai 15,Cafes,Mumbai,"JD Complex, Mumbai",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:34
+951,Restaurants Hub Delhi 1,Restaurants,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:36
+952,Restaurants Hub Delhi 2,Restaurants,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:36
+953,Restaurants Hub Delhi 3,Restaurants,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:36
+954,Restaurants Hub Delhi 4,Restaurants,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:36
+955,Restaurants Hub Delhi 5,Restaurants,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:36
+956,Restaurants Hub Delhi 6,Restaurants,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:36
+957,Restaurants Hub Delhi 7,Restaurants,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:36
+958,Restaurants Hub Delhi 8,Restaurants,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:36
+959,Restaurants Hub Delhi 9,Restaurants,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:36
+960,Restaurants Hub Delhi 10,Restaurants,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:36
+961,Restaurants Hub Delhi 11,Restaurants,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:36
+962,Restaurants Hub Delhi 12,Restaurants,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:36
+963,Restaurants Hub Delhi 13,Restaurants,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:37
+964,Restaurants Hub Delhi 14,Restaurants,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:37
+965,Restaurants Hub Delhi 15,Restaurants,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:37
+966,JD Restaurants Delhi 1,Restaurants,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:37
+967,JD Restaurants Delhi 2,Restaurants,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:37
+968,JD Restaurants Delhi 3,Restaurants,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:37
+969,JD Restaurants Delhi 4,Restaurants,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:37
+970,JD Restaurants Delhi 5,Restaurants,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:37
+971,JD Restaurants Delhi 6,Restaurants,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:37
+972,JD Restaurants Delhi 7,Restaurants,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:37
+973,JD Restaurants Delhi 8,Restaurants,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:37
+974,JD Restaurants Delhi 9,Restaurants,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:37
+975,JD Restaurants Delhi 10,Restaurants,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:37
+976,JD Restaurants Delhi 11,Restaurants,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:37
+977,JD Restaurants Delhi 12,Restaurants,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:37
+978,JD Restaurants Delhi 13,Restaurants,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:37
+979,JD Restaurants Delhi 14,Restaurants,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:37
+980,JD Restaurants Delhi 15,Restaurants,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:37
+981,Nascentvision Consultancy Services LLP,Restaurants,Delhi,"Bawana,                         Delhi, 110039",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:39
+982,Sharma House Restaurant,Restaurants,Delhi,"Mahipalpur,                         Delhi, 110037",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:39
+983,The Punjabi Rasoi,Restaurants,Delhi,"Shahdara,                         Delhi, 110051",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:39
+984,Back In Gaon,Restaurants,Delhi,"Lajpat Nagar,                         Delhi, 110024",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:39
+985,Rajdhani Restaurant,Restaurants,Delhi,"Saket,                         Delhi, 110017",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:39
+986,SHOKAT ALI APNA JUICE CORNER,Restaurants,Delhi,"Nangloi,                         Delhi, 110041",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:39
+987,Vedant Foods,Restaurants,Delhi,,+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:39
+988,Dhaba,Restaurants,Delhi,"Rajouri Garden,                         Delhi, 110027",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:39
+989,Temple Street Tilak Nagar,Restaurants,Delhi,"Tilak Nagar,                         Delhi, 110018",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:39
+990,Halal Foods Bite,Restaurants,Delhi,"Okhla,                         delhi, 110025",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:39
+991,Gyms Hub Delhi 1,Gyms,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:39
+992,Gyms Hub Delhi 2,Gyms,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:39
+993,Gyms Hub Delhi 3,Gyms,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:39
+994,Gyms Hub Delhi 4,Gyms,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:39
+995,Gyms Hub Delhi 5,Gyms,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:39
+996,Gyms Hub Delhi 6,Gyms,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:39
+997,Gyms Hub Delhi 7,Gyms,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:39
+998,Gyms Hub Delhi 8,Gyms,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:39
+999,Gyms Hub Delhi 9,Gyms,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:39
+1000,Gyms Hub Delhi 10,Gyms,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:39
+1001,Gyms Hub Delhi 11,Gyms,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:39
+1002,Gyms Hub Delhi 12,Gyms,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:39
+1003,Gyms Hub Delhi 13,Gyms,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:39
+1004,Gyms Hub Delhi 14,Gyms,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:39
+1005,Gyms Hub Delhi 15,Gyms,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:39
+1006,JD Gyms Delhi 1,Gyms,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:39
+1007,JD Gyms Delhi 2,Gyms,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:39
+1008,JD Gyms Delhi 3,Gyms,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:39
+1009,JD Gyms Delhi 4,Gyms,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:39
+1010,JD Gyms Delhi 5,Gyms,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:39
+1011,JD Gyms Delhi 6,Gyms,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:39
+1012,JD Gyms Delhi 7,Gyms,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:39
+1013,JD Gyms Delhi 8,Gyms,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:39
+1014,JD Gyms Delhi 9,Gyms,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:39
+1015,JD Gyms Delhi 10,Gyms,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:39
+1016,JD Gyms Delhi 11,Gyms,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:39
+1017,JD Gyms Delhi 12,Gyms,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:39
+1018,JD Gyms Delhi 13,Gyms,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:39
+1019,JD Gyms Delhi 14,Gyms,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:39
+1020,JD Gyms Delhi 15,Gyms,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:39
+1021,Coach Rishabh,Gyms,Delhi,"Munirka,                         Delhi, 110067",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1022,Trainer Fitness Studio,Gyms,Delhi,"Paschim Vihar,                         Delhi, 110087",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1023,Vidyapro Services,Gyms,Delhi,"Dwarka,                         Delhi, 110059",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1024,Mega Gym & Spa,Gyms,Delhi,"Dwarka,                         Delhi, 110075",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1025,P Academy Gym,Gyms,Delhi,"Moti Nagar,                         Delhi, 110015",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1026,LHF CLINIC,Gyms,Delhi,"Hauz Khas,                         Delhi, 110016",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1027,Arpit Malik,Gyms,Delhi,"Munirka,                         Delhi, 110067",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1028,3d Musclemania Gym,Gyms,Delhi,"Neb Sarai,                         Delhi, 110068",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1029,My Tuition Teacher,Gyms,Delhi,"G.T.B. Nagar,                         Delhi, 110009",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1030,Cardio Prime Gym,Gyms,Delhi,"Mayur Vihar Phase 1,                         Delhi, 110091",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:42
+1031,Hospitals Hub Delhi 1,Hospitals,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:42
+1032,Hospitals Hub Delhi 2,Hospitals,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:42
+1033,Hospitals Hub Delhi 3,Hospitals,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:42
+1034,Hospitals Hub Delhi 4,Hospitals,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:42
+1035,Hospitals Hub Delhi 5,Hospitals,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:42
+1036,Hospitals Hub Delhi 6,Hospitals,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:42
+1037,Hospitals Hub Delhi 7,Hospitals,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:42
+1038,Hospitals Hub Delhi 8,Hospitals,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:42
+1039,Hospitals Hub Delhi 9,Hospitals,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:42
+1040,Hospitals Hub Delhi 10,Hospitals,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:42
+1041,Hospitals Hub Delhi 11,Hospitals,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:42
+1042,Hospitals Hub Delhi 12,Hospitals,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:42
+1043,Hospitals Hub Delhi 13,Hospitals,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:42
+1044,Hospitals Hub Delhi 14,Hospitals,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:42
+1045,Hospitals Hub Delhi 15,Hospitals,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:42
+1046,JD Hospitals Delhi 1,Hospitals,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:42
+1047,JD Hospitals Delhi 2,Hospitals,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:42
+1048,JD Hospitals Delhi 3,Hospitals,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:42
+1049,JD Hospitals Delhi 4,Hospitals,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:42
+1050,JD Hospitals Delhi 5,Hospitals,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:42
+1051,JD Hospitals Delhi 6,Hospitals,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:42
+1052,JD Hospitals Delhi 7,Hospitals,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:42
+1053,JD Hospitals Delhi 8,Hospitals,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:42
+1054,JD Hospitals Delhi 9,Hospitals,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:42
+1055,JD Hospitals Delhi 10,Hospitals,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:42
+1056,JD Hospitals Delhi 11,Hospitals,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:42
+1057,JD Hospitals Delhi 12,Hospitals,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:42
+1058,JD Hospitals Delhi 13,Hospitals,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:42
+1059,JD Hospitals Delhi 14,Hospitals,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:42
+1060,JD Hospitals Delhi 15,Hospitals,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:42
+1061,Hotels Hub Delhi 1,Hotels,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:44
+1062,Hotels Hub Delhi 2,Hotels,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:44
+1063,Hotels Hub Delhi 3,Hotels,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:44
+1064,Hotels Hub Delhi 4,Hotels,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:44
+1065,Hotels Hub Delhi 5,Hotels,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:44
+1066,Hotels Hub Delhi 6,Hotels,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:44
+1067,Hotels Hub Delhi 7,Hotels,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:44
+1068,Hotels Hub Delhi 8,Hotels,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:44
+1069,Hotels Hub Delhi 9,Hotels,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:44
+1070,Hotels Hub Delhi 10,Hotels,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:44
+1071,Hotels Hub Delhi 11,Hotels,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:44
+1072,Hotels Hub Delhi 12,Hotels,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:44
+1073,Hotels Hub Delhi 13,Hotels,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:44
+1074,Hotels Hub Delhi 14,Hotels,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:44
+1075,Hotels Hub Delhi 15,Hotels,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:44
+1076,JD Hotels Delhi 1,Hotels,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:44
+1077,JD Hotels Delhi 2,Hotels,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:44
+1078,JD Hotels Delhi 3,Hotels,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:44
+1079,JD Hotels Delhi 4,Hotels,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:44
+1080,JD Hotels Delhi 5,Hotels,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:44
+1081,JD Hotels Delhi 6,Hotels,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:44
+1082,JD Hotels Delhi 7,Hotels,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:44
+1083,JD Hotels Delhi 8,Hotels,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:44
+1084,JD Hotels Delhi 9,Hotels,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:44
+1085,JD Hotels Delhi 10,Hotels,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:44
+1086,JD Hotels Delhi 11,Hotels,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:44
+1087,JD Hotels Delhi 12,Hotels,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:44
+1088,JD Hotels Delhi 13,Hotels,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:44
+1089,JD Hotels Delhi 14,Hotels,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:44
+1090,JD Hotels Delhi 15,Hotels,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:44
+1091,Felizviaje Holidays Pvt Ltd,Hotels,Delhi,"Delhi, 110005",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1092,Annu Travels India,Hotels,Delhi,"Delhi, 110005",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1093,Anmol Hotels Pvt. Ltd.,Hotels,Delhi,"Paharganj,                         Delhi, 110055",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1094,Travel banjara,Hotels,Delhi,"Delhi, 110005",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1095,Sumitra Inn,Hotels,Delhi,"Safdarjung Enclave,                         Delhi, 110029",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1096,Wish your destination,Hotels,Delhi,"Delhi, 110005",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1097,Indian Adventures Pune,Hotels,Delhi,"Delhi, 110005",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1098,The Global Voyage,Hotels,Delhi,"Delhi, 110005",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1099,Travels Duniyaa,Hotels,Delhi,"Delhi, 110005",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:46
+1100,Salons Hub Delhi 1,Salons,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:46
+1101,Salons Hub Delhi 2,Salons,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:46
+1102,Salons Hub Delhi 3,Salons,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:46
+1103,Salons Hub Delhi 4,Salons,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:46
+1104,Salons Hub Delhi 5,Salons,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:46
+1105,Salons Hub Delhi 6,Salons,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:46
+1106,Salons Hub Delhi 7,Salons,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:46
+1107,Salons Hub Delhi 8,Salons,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:46
+1108,Salons Hub Delhi 9,Salons,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:46
+1109,Salons Hub Delhi 10,Salons,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:46
+1110,Salons Hub Delhi 11,Salons,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:46
+1111,Salons Hub Delhi 12,Salons,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:46
+1112,Salons Hub Delhi 13,Salons,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:46
+1113,Salons Hub Delhi 14,Salons,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:46
+1114,Salons Hub Delhi 15,Salons,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:46
+1115,JD Salons Delhi 1,Salons,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:46
+1116,JD Salons Delhi 2,Salons,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:46
+1117,JD Salons Delhi 3,Salons,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:46
+1118,JD Salons Delhi 4,Salons,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:46
+1119,JD Salons Delhi 5,Salons,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:46
+1120,JD Salons Delhi 6,Salons,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:46
+1121,JD Salons Delhi 7,Salons,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:46
+1122,JD Salons Delhi 8,Salons,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:46
+1123,JD Salons Delhi 9,Salons,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:46
+1124,JD Salons Delhi 10,Salons,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:46
+1125,JD Salons Delhi 11,Salons,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:46
+1126,JD Salons Delhi 12,Salons,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:46
+1127,JD Salons Delhi 13,Salons,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:46
+1128,JD Salons Delhi 14,Salons,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:46
+1129,JD Salons Delhi 15,Salons,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:46
+1130,Cafes Hub Delhi 1,Cafes,Delhi,"1 Main Street, Delhi",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:48
+1131,Cafes Hub Delhi 2,Cafes,Delhi,"2 Main Street, Delhi",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:48
+1132,Cafes Hub Delhi 3,Cafes,Delhi,"3 Main Street, Delhi",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:48
+1133,Cafes Hub Delhi 4,Cafes,Delhi,"4 Main Street, Delhi",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:48
+1134,Cafes Hub Delhi 5,Cafes,Delhi,"5 Main Street, Delhi",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:48
+1135,Cafes Hub Delhi 6,Cafes,Delhi,"6 Main Street, Delhi",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:48
+1136,Cafes Hub Delhi 7,Cafes,Delhi,"7 Main Street, Delhi",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:48
+1137,Cafes Hub Delhi 8,Cafes,Delhi,"8 Main Street, Delhi",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:48
+1138,Cafes Hub Delhi 9,Cafes,Delhi,"9 Main Street, Delhi",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:48
+1139,Cafes Hub Delhi 10,Cafes,Delhi,"10 Main Street, Delhi",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:48
+1140,Cafes Hub Delhi 11,Cafes,Delhi,"11 Main Street, Delhi",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:48
+1141,Cafes Hub Delhi 12,Cafes,Delhi,"12 Main Street, Delhi",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:48
+1142,Cafes Hub Delhi 13,Cafes,Delhi,"13 Main Street, Delhi",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:48
+1143,Cafes Hub Delhi 14,Cafes,Delhi,"14 Main Street, Delhi",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:48
+1144,Cafes Hub Delhi 15,Cafes,Delhi,"15 Main Street, Delhi",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:48
+1145,JD Cafes Delhi 1,Cafes,Delhi,"JD Complex, Delhi",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:48
+1146,JD Cafes Delhi 2,Cafes,Delhi,"JD Complex, Delhi",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:48
+1147,JD Cafes Delhi 3,Cafes,Delhi,"JD Complex, Delhi",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:48
+1148,JD Cafes Delhi 4,Cafes,Delhi,"JD Complex, Delhi",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:48
+1149,JD Cafes Delhi 5,Cafes,Delhi,"JD Complex, Delhi",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:48
+1150,JD Cafes Delhi 6,Cafes,Delhi,"JD Complex, Delhi",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:48
+1151,JD Cafes Delhi 7,Cafes,Delhi,"JD Complex, Delhi",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:48
+1152,JD Cafes Delhi 8,Cafes,Delhi,"JD Complex, Delhi",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:48
+1153,JD Cafes Delhi 9,Cafes,Delhi,"JD Complex, Delhi",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:48
+1154,JD Cafes Delhi 10,Cafes,Delhi,"JD Complex, Delhi",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:48
+1155,JD Cafes Delhi 11,Cafes,Delhi,"JD Complex, Delhi",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:48
+1156,JD Cafes Delhi 12,Cafes,Delhi,"JD Complex, Delhi",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:48
+1157,JD Cafes Delhi 13,Cafes,Delhi,"JD Complex, Delhi",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:48
+1158,JD Cafes Delhi 14,Cafes,Delhi,"JD Complex, Delhi",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:48
+1159,JD Cafes Delhi 15,Cafes,Delhi,"JD Complex, Delhi",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:48
+1160,Restaurants Hub Bangalore 1,Restaurants,Bangalore,"1 Main Street, Bangalore",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:50
+1161,Restaurants Hub Bangalore 2,Restaurants,Bangalore,"2 Main Street, Bangalore",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:50
+1162,Restaurants Hub Bangalore 3,Restaurants,Bangalore,"3 Main Street, Bangalore",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:50
+1163,Restaurants Hub Bangalore 4,Restaurants,Bangalore,"4 Main Street, Bangalore",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:50
+1164,Restaurants Hub Bangalore 5,Restaurants,Bangalore,"5 Main Street, Bangalore",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:50
+1165,Restaurants Hub Bangalore 6,Restaurants,Bangalore,"6 Main Street, Bangalore",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:50
+1166,Restaurants Hub Bangalore 7,Restaurants,Bangalore,"7 Main Street, Bangalore",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:50
+1167,Restaurants Hub Bangalore 8,Restaurants,Bangalore,"8 Main Street, Bangalore",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:50
+1168,Restaurants Hub Bangalore 9,Restaurants,Bangalore,"9 Main Street, Bangalore",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:50
+1169,Restaurants Hub Bangalore 10,Restaurants,Bangalore,"10 Main Street, Bangalore",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:50
+1170,Restaurants Hub Bangalore 11,Restaurants,Bangalore,"11 Main Street, Bangalore",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:50
+1171,Restaurants Hub Bangalore 12,Restaurants,Bangalore,"12 Main Street, Bangalore",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:50
+1172,Restaurants Hub Bangalore 13,Restaurants,Bangalore,"13 Main Street, Bangalore",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:50
+1173,Restaurants Hub Bangalore 14,Restaurants,Bangalore,"14 Main Street, Bangalore",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:50
+1174,Restaurants Hub Bangalore 15,Restaurants,Bangalore,"15 Main Street, Bangalore",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:50
+1175,JD Restaurants Bangalore 1,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:50
+1176,JD Restaurants Bangalore 2,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:50
+1177,JD Restaurants Bangalore 3,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:50
+1178,JD Restaurants Bangalore 4,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:50
+1179,JD Restaurants Bangalore 5,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:50
+1180,JD Restaurants Bangalore 6,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:50
+1181,JD Restaurants Bangalore 7,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:50
+1182,JD Restaurants Bangalore 8,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:50
+1183,JD Restaurants Bangalore 9,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:50
+1184,JD Restaurants Bangalore 10,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:50
+1185,JD Restaurants Bangalore 11,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:50
+1186,JD Restaurants Bangalore 12,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:50
+1187,JD Restaurants Bangalore 13,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:50
+1188,JD Restaurants Bangalore 14,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:50
+1189,JD Restaurants Bangalore 15,Restaurants,Bangalore,"JD Complex, Bangalore",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:50
+1190,Nagashrees Restaurant & Takeway,Restaurants,Bangalore,"Shanti Nagar,                         Bangalore, 560027",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1191,Mahesh Food Court,Restaurants,Bangalore,"Jayanagar,                         Bangalore, 560011",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1192,The North & South Restaurant,Restaurants,Bangalore,"Whitefield,                         Bangalore, 560066",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1193,Ramya Resorts Pvt. Ltd.,Restaurants,Bangalore,"Nagarabhavi,                         Bangalore, 560072",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1194,Nandhana Restaurants,Restaurants,Bangalore,"Koramangala,                         Bangalore, 560038",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1195,Sanjha Chulha,Restaurants,Bangalore,"Marathahalli,                         Bangalore, 560037",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1196,The Egg Express,Restaurants,Bangalore,"Kengeri Satellite Town,                         Bangalore, 560060",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1197,Barbeque Factory Restaurant,Restaurants,Bangalore,"Koramangala,                         Bangalore, 560095",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1198,Khushi's North Indian Home Made Food,Restaurants,Bangalore,"JP Nagar,                         Bangalore, 560076",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1199,Manjanna biryani home,Restaurants,Bangalore,"Kengeri Satellite Town,                         Bangalore, 560060",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:52
+1200,Gyms Hub Bangalore 1,Gyms,Bangalore,"1 Main Street, Bangalore",+918888888800,4.0,100.0,https://www.example0.com,Google Maps,,,Active,2026-05-17 12:31:52
+1201,Gyms Hub Bangalore 2,Gyms,Bangalore,"2 Main Street, Bangalore",+918888888801,4.1,105.0,https://www.example1.com,Google Maps,,,Active,2026-05-17 12:31:52
+1202,Gyms Hub Bangalore 3,Gyms,Bangalore,"3 Main Street, Bangalore",+918888888802,4.2,110.0,https://www.example2.com,Google Maps,,,Active,2026-05-17 12:31:52
+1203,Gyms Hub Bangalore 4,Gyms,Bangalore,"4 Main Street, Bangalore",+918888888803,4.3,115.0,https://www.example3.com,Google Maps,,,Active,2026-05-17 12:31:52
+1204,Gyms Hub Bangalore 5,Gyms,Bangalore,"5 Main Street, Bangalore",+918888888804,4.4,120.0,https://www.example4.com,Google Maps,,,Active,2026-05-17 12:31:52
+1205,Gyms Hub Bangalore 6,Gyms,Bangalore,"6 Main Street, Bangalore",+918888888805,4.5,125.0,https://www.example5.com,Google Maps,,,Active,2026-05-17 12:31:52
+1206,Gyms Hub Bangalore 7,Gyms,Bangalore,"7 Main Street, Bangalore",+918888888806,4.6,130.0,https://www.example6.com,Google Maps,,,Active,2026-05-17 12:31:52
+1207,Gyms Hub Bangalore 8,Gyms,Bangalore,"8 Main Street, Bangalore",+918888888807,4.7,135.0,https://www.example7.com,Google Maps,,,Active,2026-05-17 12:31:52
+1208,Gyms Hub Bangalore 9,Gyms,Bangalore,"9 Main Street, Bangalore",+918888888808,4.8,140.0,https://www.example8.com,Google Maps,,,Active,2026-05-17 12:31:52
+1209,Gyms Hub Bangalore 10,Gyms,Bangalore,"10 Main Street, Bangalore",+918888888809,4.9,145.0,https://www.example9.com,Google Maps,,,Active,2026-05-17 12:31:52
+1210,Gyms Hub Bangalore 11,Gyms,Bangalore,"11 Main Street, Bangalore",+918888888800,4.0,150.0,https://www.example10.com,Google Maps,,,Active,2026-05-17 12:31:52
+1211,Gyms Hub Bangalore 12,Gyms,Bangalore,"12 Main Street, Bangalore",+918888888801,4.1,155.0,https://www.example11.com,Google Maps,,,Active,2026-05-17 12:31:52
+1212,Gyms Hub Bangalore 13,Gyms,Bangalore,"13 Main Street, Bangalore",+918888888802,4.2,160.0,https://www.example12.com,Google Maps,,,Active,2026-05-17 12:31:52
+1213,Gyms Hub Bangalore 14,Gyms,Bangalore,"14 Main Street, Bangalore",+918888888803,4.3,165.0,https://www.example13.com,Google Maps,,,Active,2026-05-17 12:31:52
+1214,Gyms Hub Bangalore 15,Gyms,Bangalore,"15 Main Street, Bangalore",+918888888804,4.4,170.0,https://www.example14.com,Google Maps,,,Active,2026-05-17 12:31:52
+1215,JD Gyms Bangalore 1,Gyms,Bangalore,"JD Complex, Bangalore",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:31:52
+1216,JD Gyms Bangalore 2,Gyms,Bangalore,"JD Complex, Bangalore",+917777777701,3.9,51.0,,Justdial,,,Active,2026-05-17 12:31:52
+1217,JD Gyms Bangalore 3,Gyms,Bangalore,"JD Complex, Bangalore",+917777777702,4.0,52.0,,Justdial,,,Active,2026-05-17 12:31:52
+1218,JD Gyms Bangalore 4,Gyms,Bangalore,"JD Complex, Bangalore",+917777777703,4.1,53.0,,Justdial,,,Active,2026-05-17 12:31:52
+1219,JD Gyms Bangalore 5,Gyms,Bangalore,"JD Complex, Bangalore",+917777777704,4.2,54.0,,Justdial,,,Active,2026-05-17 12:31:52
+1220,JD Gyms Bangalore 6,Gyms,Bangalore,"JD Complex, Bangalore",+917777777705,4.3,55.0,,Justdial,,,Active,2026-05-17 12:31:52
+1221,JD Gyms Bangalore 7,Gyms,Bangalore,"JD Complex, Bangalore",+917777777706,4.4,56.0,,Justdial,,,Active,2026-05-17 12:31:52
+1222,JD Gyms Bangalore 8,Gyms,Bangalore,"JD Complex, Bangalore",+917777777707,4.5,57.0,,Justdial,,,Active,2026-05-17 12:31:52
+1223,JD Gyms Bangalore 9,Gyms,Bangalore,"JD Complex, Bangalore",+917777777708,4.6,58.0,,Justdial,,,Active,2026-05-17 12:31:52
+1224,JD Gyms Bangalore 10,Gyms,Bangalore,"JD Complex, Bangalore",+917777777709,4.7,59.0,,Justdial,,,Active,2026-05-17 12:31:52
+1225,JD Gyms Bangalore 11,Gyms,Bangalore,"JD Complex, Bangalore",+917777777700,3.8,60.0,,Justdial,,,Active,2026-05-17 12:31:52
+1226,JD Gyms Bangalore 12,Gyms,Bangalore,"JD Complex, Bangalore",+917777777701,3.9,61.0,,Justdial,,,Active,2026-05-17 12:31:52
+1227,JD Gyms Bangalore 13,Gyms,Bangalore,"JD Complex, Bangalore",+917777777702,4.0,62.0,,Justdial,,,Active,2026-05-17 12:31:52
+1228,JD Gyms Bangalore 14,Gyms,Bangalore,"JD Complex, Bangalore",+917777777703,4.1,63.0,,Justdial,,,Active,2026-05-17 12:31:52
+1229,JD Gyms Bangalore 15,Gyms,Bangalore,"JD Complex, Bangalore",+917777777704,4.2,64.0,,Justdial,,,Active,2026-05-17 12:31:52
+1230,Pushup Bengaluru,Gyms,Bangalore,"Prashanth Nagar,                         Bangalore, 560040",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1231,Mind & Body Wellness,Gyms,Bangalore,"Yelahanka New Town,                         Bangalore, 560064",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1232,Siddaraju Massage Therapist,Gyms,Bangalore,"Jayanagar,                         Bangalore, 560041",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1233,Vrudhi fitness center,Gyms,Bangalore,"Whitefield,                         Bangalore, 577201",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1234,The Rock iTigers,Gyms,Bangalore,"Horamavu,                         Bangalore, 560043",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1235,Lamp Fitness,Gyms,Bangalore,"Kalyan Nagar,                         Bangalore, 560047",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1236,Hi Tech Gym,Gyms,Bangalore,"BTM Layout,                         Bangalore, 560029",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1237,Therige Bhavana's,Gyms,Bangalore,"Nagarabhavi,                         Bangalore, 560072",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1238,F45 Training,Gyms,Bangalore,"Whitefield,                         Bangalore, 560066",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1239,UNIQUE AMC SERVICE,Gyms,Bangalore,"Kalyan Nagar,                         Bangalore, 560043",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:31:55
+1240,FLY X JOURNEY,Hotels,Bangalore,"Bangalore, 560003",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1241,Wish your destination,Hotels,Bangalore,"Bangalore, 560003",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1242,The Global Voyage,Hotels,Bangalore,"Bangalore, 560003",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1243,Travels Duniyaa,Hotels,Bangalore,"Bangalore, 560003",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1244,Andaman Ocean Tours and Travels,Hotels,Bangalore,"Bangalore, 560003",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1245,Sandesh Tours & Travels,Hotels,Bangalore,"Electronic City,                         Bangalore, 560100",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1246,Hotel Goldfinch Retreat,Hotels,Bangalore,"Tarbanahalli,                         Bangalore, 562157",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1247,Laroze Multiservices India Private Limited,Hotels,Bangalore,"Bangalore, 560003",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1248,Zostel Vacations,Hotels,Bangalore,"Horamavu,                         Bangalore, 560043",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1249,MidWay City Inn,Hotels,Bangalore,"Vidyaranyapura,                         Bangalore, 560097",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:00
+1250,Success Electronics,Restaurants,Pune,"Ghorpadi,                         Pune, 411001",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1251,The Rasoi Pure Veg. Dining Room,Restaurants,Pune,"Vadgaon Sheri,                         Pune, 411014",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1252,Dossai Flavours of South,Restaurants,Pune,,+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1253,Pradip Ambhore,Restaurants,Pune,"Pune, 415605",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1254,Cup N Cone Ice Cream Shop,Restaurants,Pune,"Wagholi,                         Pune, 412207",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1255,Café Buddys Espresso Pvt Ltd,Restaurants,Pune,"Pune Cantonment,                         Pune, 41101",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1256,Yenna Dosa,Restaurants,Pune,"Bibwewadi,                         Pune, 411307",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1257,Manali Veg Restaurant,Restaurants,Pune,"Erandwane,                         Pune, 411004",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1258,Delhi tadka,Restaurants,Pune,"Kharadi,                         Pune, 411014",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1259,Times Square AC Restaurant & Banquet Hall,Restaurants,Pune,"Camp,                         Pune, 411001",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:07
+1260,Nandini Pandor,Restaurants,Ahmedabad,"Navrangpura,                         Ahmedabad, 380009",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1261,Rajubha,Restaurants,Ahmedabad,"Sarkhej,                         Ahmedabad, 382170",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1262,Cafe Everbean,Restaurants,Ahmedabad,"Sanidhya,                         Ahmedabad, 380054",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1263,Jagdai Foods,Restaurants,Ahmedabad,,+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1264,Tikka Shikka Chicken Corner,Restaurants,Ahmedabad,,+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1265,Bhagwati Khana Khazana Restaurant,Restaurants,Ahmedabad,"Sabarmati,                         Ahmedabad, 380005",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1266,Carnival Food Park,Restaurants,Ahmedabad,"Shilaj,                         Ahmedabad, 380058",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1267,Jalaram Restaurant & Cold Drinks,Restaurants,Ahmedabad,"Kalupur,                         Ahmedabad, 380001",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1268,Choice Restaurant,Restaurants,Ahmedabad,"Navrangpura,                         Ahmedabad, 380009",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1269,DRH Regency,Restaurants,Ahmedabad,"Naranpura,                         Ahmedabad, 380014",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:09
+1270,XMenia HiFi Fitness Club,Gyms,Pune,"Kothrud,                         Pune, 411038",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1271,Wellness Expert,Gyms,Pune,"Viman Nagar,                         Pune, 411014",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1272,Endurance Fitness Club,Gyms,Pune,"Parvati Paytha,                         Pune, 411009",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1273,Tranceform Fitness Club,Gyms,Pune,"Dhankawadi,                         Pune, 411043",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1274,Cross training fitness point,Gyms,Pune,"Kharadi,                         Pune, 411014",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1275,A One Health Club,Gyms,Pune,"Dhankawadi,                         Pune, 411043",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1276,Add Fitness,Gyms,Pune,"Camp,                         Pune, 411001",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1277,Asole's Fitness Freak,Gyms,Pune,"Pune R.S.,                         Pune, 411017",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1278,New Image Fitness Club,Gyms,Pune,"Khadki,                         Pune, 411020",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1279,Infinity Fitness & Wellness Studio,Gyms,Pune,"Kondhwa Budruk,                         Pune, 411048",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1280,Dr. Dixit's Physio World & Fitness Center,Gyms,Ahmedabad,"Sola,                         Ahmedabad, 380060",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1281,Parsana Body Care & Gym,Gyms,Ahmedabad,"Shahibaug,                         Ahmedabad, 380005",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1282,Star Gym,Gyms,Ahmedabad,"Bapunagar,                         Ahmedabad, 382350",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1283,Re Create Gym,Gyms,Ahmedabad,"Paldi,                         Ahmedabad, 380007",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1284,NITA SHETH YOGA CLASSES,Gyms,Ahmedabad,"Satellite,                         Ahmedabad, 380015",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1285,Fit & Fab Gym,Gyms,Ahmedabad,"Chandkheda,                         Ahmedabad, 382424",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1286,KFA Fitness Studio,Gyms,Ahmedabad,"Paldi,                         Ahmedabad, 380007",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1287,Keep Fit Gym,Gyms,Ahmedabad,"Shah Alam Roza,                         Ahmedabad, 380028",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1288,Rockstar Gym,Gyms,Ahmedabad,"Maninagar,                         Ahmedabad, 380008",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1289,The Happy Living,Gyms,Ahmedabad,"Satellite,                         Ahmedabad, 380015",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:14
+1290,FLY X JOURNEY,Hotels,Pune,"Pune, 415605",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1291,Felizviaje Holidays Pvt Ltd,Hotels,Pune,"Pune, 415605",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1292,Travel banjara,Hotels,Pune,"Pune, 415605",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1293,Wish your destination,Hotels,Pune,"Pune, 415605",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1294,Indian Adventures Pune,Hotels,Pune,"Dhayari,                         Pune, 411005",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1295,The Global Voyage,Hotels,Pune,"Pune, 415605",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1296,Travels Duniyaa,Hotels,Pune,"Pune, 415605",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1297,Wings your way,Hotels,Pune,"Pune, 415605",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1298,Laroze Multiservices India Private Limited,Hotels,Pune,"Pune, 415605",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1299,Zostel Vacations,Hotels,Pune,"Pune, 415605",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:19
+1300,4 Space Interior Designer,Restaurants,Surat,"Udhana,                         Surat, 394210",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1301,Vegkveg food restaurant,Restaurants,Surat,,+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1302,Caphe Tra coffee house,Restaurants,Surat,,+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1303,Bhagwati Gujarati Thali and Nasta house,Restaurants,Surat,,+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1304,Shree Shyam Restaurant - Rajasthani Restaurant,Restaurants,Surat,,+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1305,Jalsaa Chinese Corner,Restaurants,Surat,"Palanpur Road,                         Surat, 395009",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1306,Cold Coffee Recipe,Restaurants,Surat,,+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1307,john,Restaurants,Surat,"SURAT,                         Surat, 394105",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1308,Red prix,Restaurants,Surat,"Vesu,                         Surat, 395007",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1309,Mannat fast food,Restaurants,Surat,"Parvat Patiya,                         Surat, 395101",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:26
+1310,GYM SHINE,Gyms,Surat,"Altan ,                         Surat, 395007",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1311,gym city pro,Gyms,Surat,"Dindoli,                         Surat, 394210",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1312,Wings Fitness,Gyms,Surat,"Pal Gam,                         Surat, 394510",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1313,Dance  studio,Gyms,Surat,"Althan,                         surat, 395007",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1314,Satguru Bhadralaya Ashram Yoga Classes,Gyms,Surat,"Adajan,                         Surat, 395009",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1315,Muscle & Fitness Gym,Gyms,Surat,,+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1316,Gomzi Equipment,Gyms,Surat,"Surat Dumas Road,                         Surat, 395007",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1317,Talwalkars,Gyms,Surat,"Main Road,                         Surat, 360001",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1318,Golds Gym,Gyms,Surat,"Ghod Dod Road,                         Surat, 395001",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1319,Fitness Health Club,Gyms,Surat,"Ring Road,                         Surat, 395006",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:29
+1320,SHREE HARI TRAVELS,Hotels,Surat,"Surat, 395008",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1321,Felizviaje Holidays Pvt Ltd,Hotels,Surat,"Surat, 395008",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1322,Travel banjara,Hotels,Surat,"Surat, 395008",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1323,Wish your destination,Hotels,Surat,"Surat, 395008",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1324,The Global Voyage,Hotels,Surat,"Surat, 395008",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1325,Travels Duniyaa,Hotels,Surat,"Surat, 395008",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1326,Wings your way,Hotels,Surat,"Surat, 395008",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1327,Laroze Multiservices India Private Limited,Hotels,Surat,"Surat, 395008",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1328,Hotel Ashirwad,Hotels,Surat,"Varachha Road,                         Surat, 395006",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1329,Trip Visit,Hotels,Surat,"Surat, 395008",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:34
+1330,RASODHA THE AUTHENTIC KITCHEN,Restaurants,Hyderabad,"LB Nagar,                         Hyderabad, 500070",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1331,Hotel Nakshatra Inn,Restaurants,Hyderabad,"Kothapet,                         Hyderabad, 500035",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1332,Bahubelly,Restaurants,Hyderabad,"Bowenpally,                         Hyderabad, 500011",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1333,Utupura Kerala Restaurant,Restaurants,Hyderabad,"Banjara Hills,                         Hyderabad, 500034",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1334,Hyderabad House,Restaurants,Hyderabad,"Malakpet,                         Hyderabad, 500036",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1335,Km Romansiah,Restaurants,Hyderabad,,+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1336,Snobby house cafe and restaurant,Restaurants,Hyderabad,"Vanasthalipuram,                         Hyderabad, 500070",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1337,FOODIES,Restaurants,Hyderabad,"Kavadiguda,                         Hyderabad, 500080",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1338,Plated multi cuisine restaurant and banquet halls,Restaurants,Hyderabad,"Asmangadh,                         Hyderabad, 500036",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1339,Joy Almond Bakery,Restaurants,Hyderabad,"Madhapur,                         Hyderabad, 500081",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:41
+1340,"freelancer,home personal fitness training",Gyms,Hyderabad,"Secunderabad,                         Hyderabad, 500003",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1341,Satyas body massage service Females,Gyms,Hyderabad,,+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1342,LORD'S GYM,Gyms,Hyderabad,"LB Nagar,                         Hyderabad, 500068",+919876543202,4.5,17.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1343,Imran Raheem,Gyms,Hyderabad,"Shaikpet,                         Hyderabad, 500008",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1344,Skies Fitness Studio,Gyms,Hyderabad,"Sainikpuri,                         Hyderabad, 500094",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1345,Creed Gym,Gyms,Hyderabad,"Miyapur,                         Hyderabad, 500049",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1346,Fitness One India Ltd.,Gyms,Hyderabad,"Kondapur,                         Hyderabad, 500084",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1347,TheAxnis Hair & Beauty Salon with Gym,Gyms,Hyderabad,"Nizampet,                         Hyderabad, 500090",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1348,Slim & Skinn,Gyms,Hyderabad,"Kukatpally,                         Hyderabad, 500072",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1349,Sam,Gyms,Hyderabad,"Kukatpally,                         Hyderabad, 500072",+919876543209,4.5,24.0,,Sulekha,,,Active,2026-05-17 12:32:44
+1350,FLY X JOURNEY,Hotels,Hyderabad,"Near M.G. Marg,                         Hyderabad, 500032",+919876543200,4.5,15.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1351,Surya Luxury PG Hostel,Hotels,Hyderabad,"Kalasiguda,                         Hyderabad, 500003",+919876543201,4.5,16.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1352,Ananya's Abhiruchi,Hotels,Hyderabad,"Ghatkesar,                         Hyderabad, 501301",+919876543203,4.5,18.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1353,Wish your destination,Hotels,Hyderabad,"Hyderabad, 500033",+919876543204,4.5,19.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1354,The Global Voyage,Hotels,Hyderabad,"Hyderabad, 500033",+919876543205,4.5,20.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1355,Travels Duniyaa,Hotels,Hyderabad,"Hyderabad, 500033",+919876543206,4.5,21.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1356,Wings your way,Hotels,Hyderabad,"Hyderabad, 500033",+919876543207,4.5,22.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1357,Taj Home Hotel,Hotels,Hyderabad,"Secunderabad,                         Hyderabad, 500003",+919876543208,4.5,23.0,,Sulekha,,,Active,2026-05-17 12:32:49
+1374,JD Resturants Ahmedabad #1,Resturants,Ahmedabad,"JD Complex #1, Ahmedabad",+917777777700,3.8,50.0,,Justdial,,,Active,2026-05-17 12:57:27

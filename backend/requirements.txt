@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+pydantic
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+openpyxl
+python-dotenv
+python-multipart
